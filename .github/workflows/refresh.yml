@@ -11,6 +11,7 @@ jobs:
     with:
       _repo: https://wkkyy00.github.io/
       _sleep: 0
+      _limit: 200
 
 
   remove_all_old_actions:
