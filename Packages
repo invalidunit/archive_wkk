@@ -1,0 +1,3729 @@
+Package: MisakaHelper
+Architecture: iphoneos-arm64
+Version: 2.1-0
+Priority: optional
+Essential: no
+Section: 微信插件
+Maintainer: Misaka
+Provides: MisakaHelper
+Depends: mobilesubstrate
+Conflicts: MisakaHelper
+Replaces: MisakaHelper
+Filename: ./debs/iphoneos-arm64/misakahelper_2.1-0_iphoneos-arm64_20260916-0805_68d9d53dc8dc26633c3ed94b7c81981dd3b30e6d67c73f9a840b0ced66603b55.deb
+Size: 13166180
+MD5sum: cea07a80a3cc402b730cea3a6dddd15a
+SHA1: fd7b1f94876c7dd6e7f882419588a9f4809149ac
+SHA256: 68d9d53dc8dc26633c3ed94b7c81981dd3b30e6d67c73f9a840b0ced66603b55
+SHA512: 1484005314b36297b7b9c3a24bef8a3528893c30c14305a489a974b09f79adb8a10ab9bd1df6643955b7dc3d9fa62d3e456f5ad660b319891213528fe5862a26
+Description: MisakaHelper
+Name: MisakaHelper
+Author: Misaka
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: MisakaHelper
+Architecture: iphoneos-arm64
+Version: 2.1-1-end
+Priority: optional
+Essential: no
+Section: 微信插件
+Maintainer: Misaka
+Provides: MisakaHelper
+Depends: mobilesubstrate
+Conflicts: MisakaHelper
+Replaces: MisakaHelper
+Filename: ./debs/iphoneos-arm64/misakahelper_2.1-1-end_iphoneos-arm64_20260916-0805_cb7231bf71f5211631c5a9dc4c81005549ad9acea2df980c0b38eefce54667a7.deb
+Size: 13175808
+MD5sum: 9d2654e968c9a27bcb98ce2c7d6ca644
+SHA1: 234537593b4e18617847503c51eda49792378ec0
+SHA256: cb7231bf71f5211631c5a9dc4c81005549ad9acea2df980c0b38eefce54667a7
+SHA512: 2d055f24ed8926a79dd58c230523eb0e195d5010608efad29574483bac0583a92df6fab3938a62f851bd2e927d69fc5fd8cc51344280ea6bd15e6d010920eded
+Description: MisakaHelper
+Name: MisakaHelper
+Author: Misaka
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: Wen.cpu.RlPNDlP
+Architecture: iphoneos-arm64
+Version: 2.0
+Section: 插件
+Maintainer: RlPNDlP
+Depends: firmware (>> 14.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64/wen.cpu.rlpndlp_2.0_iphoneos-arm64_20260916-0805_229a8c16f8e8c2c753776ddacab9ff982d154bd4a4a38a343a733406949fec21.deb
+Size: 1960
+MD5sum: bc89019f9852daa0b3d5fc21885c1b4f
+SHA1: 593c5bb4f5f4f3ca4997b6f60cdfaa8ae903f406
+SHA256: 229a8c16f8e8c2c753776ddacab9ff982d154bd4a4a38a343a733406949fec21
+SHA512: 90a88c86b606a6046556c2851b0fb0bc9ed43f0cdb9e51745d2cff7b2042c7f1db8d05ca50bd29e21e109aea57464f9833326d13de50d063114b1d5fe1f896b3
+Description: 威锋网友：一铭劉學珄，打包deb越狱自动运行虚拟内存.sh
+Name: 虚拟内存优化
+Author: RlPNDlP
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+
+Package: Wen.cpu.RlPNDlP
+Architecture: iphoneos-arm64e
+Version: 2.0
+Section: 插件
+Maintainer: RlPNDlP
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>> 14.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64e/wen.cpu.rlpndlp_2.0_iphoneos-arm64e_20260916-0805_6799154ca8f04521150b6ea089ee0385b4a865d960092bed413176708fa5c3a2.deb
+Size: 2544
+MD5sum: 65697396b3d457b0845f82cf3c6d1fa1
+SHA1: 8d888ecc4b841b80a8f3a8f03c57f7f6c751f7a7
+SHA256: 6799154ca8f04521150b6ea089ee0385b4a865d960092bed413176708fa5c3a2
+SHA512: ca60635806a4ad21306a9608fa32b889f601dfd4ec613a7bef19d98e193495a4606a52cdc359b2de384b2300c610f8238589a66254c0e7ca86e997375cce1802
+Description: 威锋网友：一铭劉學珄，打包deb越狱自动运行虚拟内存.sh
+Name: 虚拟内存优化
+Author: RlPNDlP
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+
+Package: a1
+Architecture: iphoneos-arm64e
+Version: 1.8.4-beta3
+Section: 插件配置
+Maintainer: LF，AD
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, bash, adv-cmds, gawk, shell-cmds, zstd
+Filename: ./debs/iphoneos-arm64e/a1_1.8.4-beta3_iphoneos-arm64e_20260916-0805_74021e3185b1ab8389715af0bd51ecd23f3a82a3f74c83013e0c75a2c60d945b.deb
+Size: 19496
+MD5sum: b076ce92cd77cc3e2d0303ca9db03628
+SHA1: 7b5028409790b50225efebbf7dd7e16d6739b0ba
+SHA256: 74021e3185b1ab8389715af0bd51ecd23f3a82a3f74c83013e0c75a2c60d945b
+SHA512: aed89335ba9b5a4345a6823346fc6a79ba4c2a7ce81d43a0eb77be69e81ce74770a6843800d92941691e700b5d46b960354c380bb32b120039c32970176bd66e
+Description: 自用款。
+Name: A1
+Author: LF
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+
+Package: cn.Bswbw.fixsets
+Architecture: iphoneos-arm64e
+Version: 1.1
+Section: Tweaks
+Maintainer: gblw
+Installed-Size: 123
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: cn.Bswbw.fixset
+Filename: ./debs/iphoneos-arm64e/cn.bswbw.fixsets_1.1_iphoneos-arm64e_20260916-0805_3082e97ab0cf3bc9bbff337454046716ea7785135b6ccf86e3521a2f05a0e561.deb
+Size: 36764
+MD5sum: 7dc2095af44b31870db365ddeb17fff9
+SHA1: 53e9241668dd5dfc36c95ea6606f7ed529cdf195
+SHA256: 3082e97ab0cf3bc9bbff337454046716ea7785135b6ccf86e3521a2f05a0e561
+SHA512: ccbc668695a277764344263e8bbba4de3193facc10ca0b70bc0add91367ec7ea2fb5d87b88a0c53e6b3fb239290c238918d74108181333d3d9e8994d2f57f237
+Description: 修复部分插件转RootHide配置不保存问题。
+Author: bswbw
+Name: FixSet
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
+Package: cn.sunshinesong.split-view-pro
+Architecture: iphoneos-arm64
+Version: 1.1.6
+Section: Tweaks
+Maintainer: sunshinesong
+Installed-Size: 13648
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
+Filename: ./debs/iphoneos-arm64/cn.sunshinesong.split-view-pro_1.1.6_iphoneos-arm64_20260916-0805_e16788eef7ea6f987ef250144f3ea097fc9ddb9a7096534300989385f4cdf6d2.deb
+Size: 3472304
+MD5sum: c07b568c26f5778fbb6c53f21b530efa
+SHA1: f02a8ba2887f6725e5a1c0403ec2e97b03bfd80b
+SHA256: e16788eef7ea6f987ef250144f3ea097fc9ddb9a7096534300989385f4cdf6d2
+SHA512: 3a3647e90efb8ed3286b6f769730ad64867432f9ec654d9cb21e070579add7d527da45b2a82d5e535c29f1c01416f8a9b26fbfdebdebb22dc0335f3dac901cee
+Description: 分屏，不必太复杂，一切从简即可。（最后一个免费版本）
+Name: split-view-pro
+Author: sunshinesong
+TS: sp-sss
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+
+Package: cn.sunshinesong.split-view-pro
+Architecture: iphoneos-arm64e
+Version: 1.1.6
+Section: Tweaks
+Maintainer: sunshinesong
+Installed-Size: 13648
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
+Filename: ./debs/iphoneos-arm64e/cn.sunshinesong.split-view-pro_1.1.6_iphoneos-arm64e_20260916-0805_2765073660e74a60827ddfef7075c44f509b0c1aec4d5fc2790c7b022afa7d9d.deb
+Size: 10121220
+MD5sum: e5563bf34030a7ae3b3fce32562d4846
+SHA1: 92378d7f4298c29bb23a0ad8086b1c914e8f59f4
+SHA256: 2765073660e74a60827ddfef7075c44f509b0c1aec4d5fc2790c7b022afa7d9d
+SHA512: 0bc6416fd725e312dbda5eb70a2fc293b0750c427e4ef2300187bdde92d542f52c3dcc8ca11a4d4131e9e08ceaf74ff88938213b3d37202d08a3889494591722
+Description: 分屏，不必太复杂，一切从简即可。（最后一个免费版本）
+Name: split-view-pro
+Author: sunshinesong
+TS: sp-sss
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+
+Package: cn.wkk.swipeextenderx
+Architecture: iphoneos-arm64
+Version: 0.0.2
+Section: Tweaks
+Maintainer: 来了老弟
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/cn.wkk.swipeextenderx_0.0.2_iphoneos-arm64_20260916-0805_905142b881fe49d00eaadaf16dac0e4c1df9d6c99fc40e23803c0c7a35b85183.deb
+Size: 10300
+MD5sum: 74a1c175030d5ac9c12cb105f0c5da74
+SHA1: 8eafa059bf665bdfae1a746cac8380db40140110
+SHA256: 905142b881fe49d00eaadaf16dac0e4c1df9d6c99fc40e23803c0c7a35b85183
+SHA512: 1ba73512260acf74d9b392a4abc902cff1d446955451d79dea48197e7687f427c1dc86599c8567f8b9dcd7d1623ffe6caa0d88d81f1f9fc9df3b4e118c0de1e6
+Description: 如题。
+Name: SwipeExtenderX汉化
+Author: 来了老弟
+Icon: https://img.chariz.cloud/icon/swipeextenderx/icon@3x.png
+
+Package: cn.wkk.swipeextenderx
+Architecture: iphoneos-arm64e
+Version: 0.0.2
+Section: Tweaks
+Maintainer: 来了老弟
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64e/cn.wkk.swipeextenderx_0.0.2_iphoneos-arm64e_20260916-0805_81fcca1368127affa7bf6e6dbe8e9d2534eb0959d7bd3d0e85e5ee7d834d40d3.deb
+Size: 13676
+MD5sum: 390455bbc2099af752176886c005edbb
+SHA1: 7daebeec883cb8c7fabf74e4463ddfb16eac82da
+SHA256: 81fcca1368127affa7bf6e6dbe8e9d2534eb0959d7bd3d0e85e5ee7d834d40d3
+SHA512: 9832fd8400be74fa1667c3dc5ffaa395c8740656d85c7f340e3e3c039b67f7cfc2a2e38197d74b782af16d210018efb22372b7321600ead98e4c9bd5b55d3f97
+Description: 如题。
+Name: SwipeExtenderX汉化
+Author: 来了老弟
+Icon: https://img.chariz.cloud/icon/swipeextenderx/icon@3x.png
+
+Package: cn.wkk.tmts
+Architecture: iphoneos-arm64e
+Version: 1.2
+Section: Tweaks
+Maintainer: 来了老弟
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64e/cn.wkk.tmts_1.2_iphoneos-arm64e_20260916-0805_1653b278596b2d276b1239f28c549f36e3c8ef2191d1d4d93350ba0210c6619c.deb
+Size: 126712
+MD5sum: 811d9b92b3cf99cb9873a40f9796e155
+SHA1: 688d65dfe4985e726ca6809a6abb13918ee37ffd
+SHA256: 1653b278596b2d276b1239f28c549f36e3c8ef2191d1d4d93350ba0210c6619c
+SHA512: 8c87220b112721d9fe92ec282b4246a2b93a6c705aa8f11e313e9a4dc8b98db9eca544415d584959192c217ca60e49ad1e54c65ddf41f9369f962c65a37e99ee
+Description: 自定义播放器大小和控制中心大小及位置，自定义SpringBoard全局透明度，包含锁屏，播放器，负一屏，通知，控制中心，多任务后台模块等。
+Name: 全局透明Max
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Author: 来了老弟
+
+Package: cn.wkk.watchfix
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: 577FKJ
+Installed-Size: 2404
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/cn.wkk.watchfix_1.0.0_iphoneos-arm64_20260916-0805_d829ce47d4cfaf1cbea791517efcacf024eec720338dc78275802d5dc50932e6.deb
+Size: 113372
+MD5sum: 990533bbac824befdcf6d36efb4dc36d
+SHA1: 74804993689f867d873da72e17397f8e7f9f6af5
+SHA256: d829ce47d4cfaf1cbea791517efcacf024eec720338dc78275802d5dc50932e6
+SHA512: 4f4948ed7e0669efa88b75c2ac4f7588937e069da30af6f62ed7645b9c10223922db7ee6673169c9b6cdda569db1540ee100d436ee119e0544f996e8ae02aa07
+Description: 老系统配对新的 Apple watch 修复插件。
+Name: WatchFix
+Author: 577FKJ
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
+Package: cn.wkk.watchfix
+Architecture: iphoneos-arm64
+Version: 2.0.1
+Section: Tweaks
+Maintainer: 577FKJ
+Installed-Size: 2404
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/cn.wkk.watchfix_2.0.1_iphoneos-arm64_20260916-0805_08e26aa121d6d81c65211ef4d1a4f26d13714c0e56b77e5855b40de471e6239e.deb
+Size: 602692
+MD5sum: eff8288260ea47c272fee49332edb020
+SHA1: f73a10b8e6f3861df841c56f092015473cea9ab7
+SHA256: 08e26aa121d6d81c65211ef4d1a4f26d13714c0e56b77e5855b40de471e6239e
+SHA512: 5166e968d6616a0574e77384eeb681e8a605fc6d39c38f0097922b380fd525a32e506faa65af49a0acaddabe997c61636e75cae24e7e12ac642ac3d8c0d07068
+Description: 老系统配对新的 Apple watch 修复插件。
+Name: WatchFix
+Author: 577FKJ
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
+Package: cn.wkk.watchfix
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Section: Tweaks
+Maintainer: 577FKJ
+Installed-Size: 2404
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/cn.wkk.watchfix_1.0.0_iphoneos-arm64e_20260916-0805_718330f3f4d5555680d4298ef32860314b41713de1c93b1765562c1ab1f19ac4.deb
+Size: 113236
+MD5sum: c5fcf6c6a009f86f840f530d87b9f95a
+SHA1: 1a365a59ca2892fbaf3b16866dbe90cc48385fa9
+SHA256: 718330f3f4d5555680d4298ef32860314b41713de1c93b1765562c1ab1f19ac4
+SHA512: 971748e2c892d90ddaa644b6257e5ae93e0990104136e8544bb2e92f93309881a7d3d86c766cb831fb3ba2c722b255621b0318497f2a84c14f9a89e181fed026
+Description: 老系统配对新的 Apple watch 修复插件。
+Name: WatchFix
+Author: 577FKJ
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
+Package: cn.wkk.watchfix
+Architecture: iphoneos-arm64e
+Version: 2.0.1
+Section: Tweaks
+Maintainer: 577FKJ
+Installed-Size: 2404
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/cn.wkk.watchfix_2.0.1_iphoneos-arm64e_20260916-0805_c51a7e6af378fa4becb88c854f2c23a371a805a858a2d423f8efc5b66cdcb3f1.deb
+Size: 609252
+MD5sum: 6f89e7d819ca661ffb87eda2b8fcb794
+SHA1: f7836ac8397e508373953d738ff5fe7e53a3f0e1
+SHA256: c51a7e6af378fa4becb88c854f2c23a371a805a858a2d423f8efc5b66cdcb3f1
+SHA512: e8359a628da4e22ed99e81aea32c20220b52d4f244d23e6f3330ae05e916d6cc1163bf67b5dc2fe5b91edd75347db5bb06de76fbc321aff4bed46497716499cb
+Description: 老系统配对新的 Apple watch 修复插件。
+Name: WatchFix
+Author: 577FKJ
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
+Package: cn.zqbb.appdata
+Architecture: iphoneos-arm64
+Version: 1.3.6-9
+Section: 插件
+Maintainer: zqbb
+Installed-Size: 356
+Depends: firmware (>= 15.0), mobilesubstrate
+Conflicts: com.fouadraheb.appdata, netskao.appdata-rootless
+Filename: ./debs/iphoneos-arm64/cn.zqbb.appdata_1.3.6-9_iphoneos-arm64_20260916-0805_3ec5627a8dbcabe777734890f83e8a1858c7a1a6c7c6a9690ba53e05517111a7.deb
+Size: 76912
+MD5sum: 9954d76effbe1e3bf024550c2e672c9c
+SHA1: 4a1da2d077bc72fa625cfe4969b88ad2e7484417
+SHA256: 3ec5627a8dbcabe777734890f83e8a1858c7a1a6c7c6a9690ba53e05517111a7
+SHA512: 35f57836b2baa39796db5228fce69897cb918cab310577a1fb5936bc6af949c0dd40f3678c495ec691fcaf7b1e0bb1c9d0f3e2470b9304ac2c920d70bb981391
+Description: 仅备份。
+Name: Hello AppData
+Author: Fouad Raheb <support@fouadraheb.com>
+Icon: https://s1.imagehub.cc/images/2025/02/12/3a8191d7ba1712d1c153e667a49c0a57.png
+
+Package: cn.zqbb.appdata
+Architecture: iphoneos-arm64e
+Version: 1.3.6-9
+Section: 插件
+Maintainer: zqbb
+Installed-Size: 356
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate
+Conflicts: com.fouadraheb.appdata, netskao.appdata-rootless
+Filename: ./debs/iphoneos-arm64e/cn.zqbb.appdata_1.3.6-9_iphoneos-arm64e_20260916-0805_22272c331b6c26a66f91eb8f151a324042e6fb526abdb1f4da80db12e1fdf449.deb
+Size: 99708
+MD5sum: fef78c0d153a13889dd3d23012ca14f2
+SHA1: 8c71007c6be366b055fed368138d54f793f7130b
+SHA256: 22272c331b6c26a66f91eb8f151a324042e6fb526abdb1f4da80db12e1fdf449
+SHA512: 341b4788c9f26673f3bf733a4ba10a57da92695f81def3bde983b210c567bfa0bf19f84cce40edad9787d6eb66b386c7b9241c2998c3bb7931e34e01382e771a
+Description: 仅备份。
+Name: Hello AppData
+Author: Fouad Raheb <support@fouadraheb.com>
+Icon: https://s1.imagehub.cc/images/2025/02/12/3a8191d7ba1712d1c153e667a49c0a57.png
+
+Package: cn.zqbb.fix120hz
+Architecture: iphoneos-arm64
+Version: 1.2.0-30
+Section: Tweaks
+Maintainer: zqbb
+Installed-Size: 1388
+Depends: mobilesubstrate (>= 0.9.5000) , firmware (>= 15.0), preferenceloader, com.opa334.altlist
+Conflicts: cn.zqbb.fix120hz15, com.zqbb.fix120hz, com.zqbb.dynamic120hz
+Filename: ./debs/iphoneos-arm64/cn.zqbb.fix120hz_1.2.0-30_iphoneos-arm64_20260916-0805_6f05244d85901e1747689ee78c47ea5b6cd10299e8fb05de0d234a4d347d636a.deb
+Size: 316988
+MD5sum: f3af77d15da05313f18226016e5cd0ef
+SHA1: f3c566b6dc5bb068caf0ba8818324b97eab954ad
+SHA256: 6f05244d85901e1747689ee78c47ea5b6cd10299e8fb05de0d234a4d347d636a
+SHA512: 46eaf5cb5a5c49b5a1e1770eefad23c8858a97e0b8c78fae5c0d7d19eea84f16c119d9ba7e4ca7d3a60d21782ad363cab694cbdf002f8e114c01b8e3b66b6382
+Description:
+ - Unlock dynamic refresh rate from 80hz to 120hz
+ - .
+ - 解锁动态刷新率80hz到120hz.
+Name: 120Hz Fix (iOS15~16)
+Author: zqbb
+Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.fix120hz
+SileoDepiction: https://rootless.002599.xyz/web/cn.zqbb.fix120hz
+
+Package: cn.zqbb.fix120hz
+Architecture: iphoneos-arm64
+Version: 3.2.0-1
+Section: 插件
+Maintainer: zqbb
+Installed-Size: 940
+Depends: mobilesubstrate (>= 0.9.5000) , firmware (>= 15.0), preferenceloader, com.opa334.altlist
+Conflicts: cn.zqbb.fix120hz15, com.zqbb.fix120hz, com.zqbb.dynamic120hz
+Filename: ./debs/iphoneos-arm64/cn.zqbb.fix120hz_3.2.0-1_iphoneos-arm64_20260916-0805_bded8ecddea93a9bd3d162990280b2a283107dde746957d560f51d07559e47c2.deb
+Size: 296324
+MD5sum: 5b6c14c5e6dce8bf67b9c0629dcb8972
+SHA1: 4e4eebfd4e264f15a88b10a4fd675e6bc8b0f75c
+SHA256: bded8ecddea93a9bd3d162990280b2a283107dde746957d560f51d07559e47c2
+SHA512: 7cde02c38150da24bd635294f9a9029dbc681d38a9215e607bfe4214c88eb666efbb89035684ffc7e61e91ba6be870bf3c97d449c9ba59f80a00982697fb27c8
+Description: 解锁动态刷新率80hz到120hz
+Name: Hello 120Hz
+Author: zqbb
+Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.fix120hz
+SileoDepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/120hz.json
+
+Package: cn.zqbb.fix120hz
+Architecture: iphoneos-arm64e
+Version: 1.2.0-30
+Section: Tweaks
+Maintainer: zqbb
+Installed-Size: 1388
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000) , firmware (>= 15.0), preferenceloader, com.opa334.altlist
+Conflicts: cn.zqbb.fix120hz15, com.zqbb.fix120hz, com.zqbb.dynamic120hz
+Filename: ./debs/iphoneos-arm64e/cn.zqbb.fix120hz_1.2.0-30_iphoneos-arm64e_20260916-0805_02ff11e471180adbcad1c0252a87c62a301400a55df4fb752c0dcc1f06ffb1f4.deb
+Size: 442872
+MD5sum: 5d8c88e0a3e87a8f436ecd88aa3aed81
+SHA1: 9646ed996f09876dd8d5dbc177e51bd1856ac680
+SHA256: 02ff11e471180adbcad1c0252a87c62a301400a55df4fb752c0dcc1f06ffb1f4
+SHA512: 0b354ec4537f4150aa6f15e7ee3ee399c5e5a62a6736b98ecff9a54568b232bafa61005d4726ba45d8d27750771b5dde214d3e9a393c66e7f7ca5d0ce048a265
+Description:
+ - Unlock dynamic refresh rate from 80hz to 120hz
+ - .
+ - 解锁动态刷新率80hz到120hz.
+Name: 120Hz Fix (iOS15~16)
+Author: zqbb
+Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.fix120hz
+SileoDepiction: https://rootless.002599.xyz/web/cn.zqbb.fix120hz
+
+Package: cn.zqbb.fix120hz
+Architecture: iphoneos-arm64e
+Version: 3.2.0-1
+Section: 插件
+Maintainer: zqbb
+Installed-Size: 940
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000) , firmware (>= 15.0), preferenceloader, com.opa334.altlist
+Conflicts: cn.zqbb.fix120hz15, com.zqbb.fix120hz, com.zqbb.dynamic120hz
+Filename: ./debs/iphoneos-arm64e/cn.zqbb.fix120hz_3.2.0-1_iphoneos-arm64e_20260916-0805_c5ce89cb65b1b4c28ee21cdd5954eb3b3dfed955b451a5d4526b9fda0c1d7ac7.deb
+Size: 407220
+MD5sum: 534c92e28f7d1ec4963e400913fc3880
+SHA1: 1e0bb3677b74339c86b7ba79b12832a9c2532ab4
+SHA256: c5ce89cb65b1b4c28ee21cdd5954eb3b3dfed955b451a5d4526b9fda0c1d7ac7
+SHA512: b6b607b1e8fefa9852921eb225611913f074171627e2841394452e3f2f13d95759a49c31ea35eabb75a1c2bfbb5708af9042c48fdd1a0b564742d6f1d364e907
+Description: 解锁动态刷新率80hz到120hz
+Name: Hello 120Hz
+Author: zqbb
+Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.fix120hz
+SileoDepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/120hz.json
+
+Package: cn.zqbb.orzfolder
+Architecture: iphoneos-arm64
+Version: 1.3.3-2
+Section: Tweaks
+Maintainer: zqbb
+Installed-Size: 2564
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
+Filename: ./debs/iphoneos-arm64/cn.zqbb.orzfolder_1.3.3-2_iphoneos-arm64_20260916-0805_e461e43a08a837073c361a8215147804df9481737977832475fe04298b6f6bed.deb
+Size: 787632
+MD5sum: b6e0384d5da8d151fdb86247d24b9a03
+SHA1: 28b386466319800591376de7494a5c9ea5cda5be
+SHA256: e461e43a08a837073c361a8215147804df9481737977832475fe04298b6f6bed
+SHA512: b5b867382a82706264bf7e5ccabc2036fff05d128b46417df0e6cd65607ac7dbe361bdf1af9998b53515ee250a5e22f5d550a644cea786c67add245b83aafd74
+Description: Folder Layout Customization Tool
+ - 文件夹颜值 ? 美 : 丑
+Name: Hello Folder
+Author: zqbb
+Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.orzfolder
+SileoDepiction: https://rootless.002599.xyz/web/cn.zqbb.orzfolder
+
+Package: cn.zqbb.orzfolder
+Architecture: iphoneos-arm64e
+Version: 1.3.3-2
+Section: Tweaks
+Maintainer: zqbb
+Installed-Size: 2564
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
+Filename: ./debs/iphoneos-arm64e/cn.zqbb.orzfolder_1.3.3-2_iphoneos-arm64e_20260916-0805_2d9579317a64471135a8ca296939ed0a8b00099d0451fc10f33cfdf0437a6847.deb
+Size: 2158350
+MD5sum: 2558f021fc11faf440e35fdbfb25842c
+SHA1: c5fe120fe5edd084831406c82c632bcc15864aab
+SHA256: 2d9579317a64471135a8ca296939ed0a8b00099d0451fc10f33cfdf0437a6847
+SHA512: c45751aa53b2cc247471aec85e7939e4d4740c73e1475c505a00519078538b0d2aa2378ab989aae941d6816065740bca03d949e8a522d1e99660ca0d4de22892
+Description: Folder Layout Customization Tool
+ - 文件夹颜值 ? 美 : 丑
+Name: Hello Folder
+Author: zqbb
+Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.orzfolder
+SileoDepiction: https://rootless.002599.xyz/web/cn.zqbb.orzfolder
+
+Package: com.0xkuj.safarix
+Architecture: iphoneos-arm64
+Version: 1.9.9.1
+Section: 插件
+Maintainer: 0xkuj
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: ./debs/iphoneos-arm64/com.0xkuj.safarix_1.9.9.1_iphoneos-arm64_20260916-0805_aabb14253d58ad555c5300761d118aec20df48bc6dca7856f787ab9f9d7620e2.deb
+Size: 322132
+MD5sum: 40199d63165e3f360f48edfb24d81dea
+SHA1: e2e1bcac108e5d312162da3592914d4507a9208d
+SHA256: aabb14253d58ad555c5300761d118aec20df48bc6dca7856f787ab9f9d7620e2
+SHA512: 3d70cc9a198017c50d32caa2b894af2f7ded8a2721edfe1f5d9ed1bfb7d4da28b9ec76f9afccb4777f2a203c72a023db4bc1b29e26063aed0658648ea324343a
+Description: Safari浏览器增强。
+Icon: https://sini921.github.io/repo/sileodepiction/icon/safarix.png
+Name: SafariX
+Author: 0xkuj
+
+Package: com.0xkuj.safarix
+Architecture: iphoneos-arm64e
+Version: 1.9.9.1
+Section: 插件
+Maintainer: 0xkuj
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: ./debs/iphoneos-arm64e/com.0xkuj.safarix_1.9.9.1_iphoneos-arm64e_20260916-0805_c9506a411870d8e036003ed17d12ef8e42fbae6322785bf9bb2b3e89df9abb44.deb
+Size: 371644
+MD5sum: f0e4a5a5ae4516566a467ce3c7d04685
+SHA1: b16a76d1925b162341929aa676a76842804be7f9
+SHA256: c9506a411870d8e036003ed17d12ef8e42fbae6322785bf9bb2b3e89df9abb44
+SHA512: 6d2719631cf0fb331d24c237d5fc55592eee30502afb7877c8e73d46cda6c2d14326d485be5e0f5e46da4665fe0dc4243ac99953b36e0415812ee33e3095f2d2
+Description: Safari浏览器增强。
+Icon: https://sini921.github.io/repo/sileodepiction/icon/safarix.png
+Name: SafariX
+Author: 0xkuj
+
+Package: com.25mao.miyou.rootless
+Architecture: iphoneos-arm64
+Version: 3.8-0
+Priority: optional
+Section: 微信插件
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/iphoneos-arm64/com.25mao.miyou.rootless_3.8-0_iphoneos-arm64_20260916-0805_e317a508c5ce6e8dc31922f4a9aedec38e325a042376c9c3c5f81fd7c620a68b.deb
+Size: 10146804
+MD5sum: b97abfec789d270fef00090b22ce5c9b
+SHA1: 2db7787b9c43166d24fa0eb03f5e1305ec953f55
+SHA256: e317a508c5ce6e8dc31922f4a9aedec38e325a042376c9c3c5f81fd7c620a68b
+SHA512: 1cbe15c94575b3738ed1cd2adbc9b917b6f6436084f5a7d9fc164cc1581214e0dc47989dd0d6950e2f4978f4842d12f6f251820a8d6389fce09689ae968c08fd
+Description: 微信助手
+Name: 微信助手
+Author: Mao
+Sponsor: admin@25mao.com
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.25mao.miyou.rootless
+Architecture: iphoneos-arm64
+Version: 3.8-1
+Priority: optional
+Section: 微信插件
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/iphoneos-arm64/com.25mao.miyou.rootless_3.8-1_iphoneos-arm64_20260916-0805_eb4874cc28e3a2d2b6d7d06e10e662e96d3ebf3320e7b0268af4177cd162c86b.deb
+Size: 9025296
+MD5sum: be6b614d2fce95a3068a20c92e5c9d71
+SHA1: b86652cde0ad180f8fb9b1b3f7daa1cd9b642936
+SHA256: eb4874cc28e3a2d2b6d7d06e10e662e96d3ebf3320e7b0268af4177cd162c86b
+SHA512: 83862e75fe402d146a70e3164fd3f9f96006bfefe9cba4f2d394edd223748159bef66a96260d0bd3889c31441b13269a4b12c6ef59ca23953c23dadcb9870da5
+Description: 微信助手
+Name: 微信助手
+Author: Mao
+Sponsor: admin@25mao.com
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.25mao.miyou.rootless
+Architecture: iphoneos-arm64
+Version: 3.8-2
+Priority: optional
+Section: 微信插件
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/iphoneos-arm64/com.25mao.miyou.rootless_3.8-2_iphoneos-arm64_20260916-0805_5a859becceacdf058e3030562097f8daaaa8668cf76550f8672875d00953b424.deb
+Size: 8967804
+MD5sum: b00c1a647398a7b0267e9b076c71f788
+SHA1: 59a3a19a3947d7db7a91718886087b55e944a1b0
+SHA256: 5a859becceacdf058e3030562097f8daaaa8668cf76550f8672875d00953b424
+SHA512: 7c7db9b0596b48d781a020c0ff1d3d060ea631cbebcf6e13e64522acf6a6e2db6fe45a04912fb333c143091663a0cb8192e8f887e9e028c8b6cc304246739c3d
+Description: 微信助手
+Name: 微信助手
+Author: Mao
+Sponsor: admin@25mao.com
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.25mao.miyou.rootless
+Architecture: iphoneos-arm64
+Version: 3.8-3
+Priority: optional
+Section: 微信插件
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/iphoneos-arm64/com.25mao.miyou.rootless_3.8-3_iphoneos-arm64_20260916-0805_425ffa7110ab2f6184a60a9ee3790727c0679ea5eca36f2e76b658e8e414d10b.deb
+Size: 9038128
+MD5sum: 81cfdcfc86d38d126f31a388c6002257
+SHA1: 96d02fce447176f0fb5edd64ca463f5af9d8e6f7
+SHA256: 425ffa7110ab2f6184a60a9ee3790727c0679ea5eca36f2e76b658e8e414d10b
+SHA512: 3162c5b70873936d25e3c99dddfbfc5138691a30de04ab28d238a1d2f8221b7b33adc599dc1c806bb6d43d964574a2652ded40442f7ae993f1cf858f34f96f9f
+Description: 微信助手
+Name: 微信助手
+Author: Mao
+Sponsor: admin@25mao.com
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.25mao.miyou.rootless
+Architecture: iphoneos-arm64
+Version: 3.8-4
+Priority: optional
+Section: 微信插件
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/iphoneos-arm64/com.25mao.miyou.rootless_3.8-4_iphoneos-arm64_20260916-0805_54a6a0eaae3bf9ffc10a657d5cdcdc338913452d6b90f50656a3973966fb8988.deb
+Size: 9291800
+MD5sum: b4cb0f07763ff0972899addc5ed067b9
+SHA1: 0617dcfe647ba1e84b507e87df6037ae840cd268
+SHA256: 54a6a0eaae3bf9ffc10a657d5cdcdc338913452d6b90f50656a3973966fb8988
+SHA512: fdbd32977a5bdd3726dddf380684343707af8923a010af4bfa9b4ccebbd33121a676efb87f05b5e835e4441bff4472dd782d562b3e2500216fb36c4687522592
+Description: 微信助手
+Name: 微信助手
+Author: Mao
+Sponsor: admin@25mao.com
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.25mao.miyou.rootless
+Architecture: iphoneos-arm64
+Version: 3.8-6
+Priority: optional
+Section: 微信插件
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/iphoneos-arm64/com.25mao.miyou.rootless_3.8-6_iphoneos-arm64_20260916-0805_1bf5fc4b9a22d20939199456042adefc3027469213603886ccb984677ab82c05.deb
+Size: 9084904
+MD5sum: 607d9cf89f9f8c12b1d6135e0754b5e8
+SHA1: 2bd89fc3cbaa814f1d14c692c06fd918cafdca22
+SHA256: 1bf5fc4b9a22d20939199456042adefc3027469213603886ccb984677ab82c05
+SHA512: c0ff25831115e71a60506db291ac761c4b15f38cad1258cebe7da950320c5a3006bc3a04e8617d1733cc583ccdeb9e46b141852f638f7b7887df261e978c1a55
+Description: 微信助手
+Name: 微信助手
+Author: Mao
+Sponsor: admin@25mao.com
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.25mao.miyou.rootless
+Architecture: iphoneos-arm64
+Version: 3.8-7
+Priority: optional
+Section: 微信插件
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/iphoneos-arm64/com.25mao.miyou.rootless_3.8-7_iphoneos-arm64_20260916-0805_0017285e9a0b0729e8c50d0ecc0a8017aeec769659c216f292be20f852f83b8b.deb
+Size: 6234344
+MD5sum: 80bddf382f1acd59164763da8a316398
+SHA1: 3bd59befa978708ea6142257f5c129859d40ee5a
+SHA256: 0017285e9a0b0729e8c50d0ecc0a8017aeec769659c216f292be20f852f83b8b
+SHA512: 812bb827ece19d76ffcc2ce26a01a47b319f49badf63e01561693ab49314627a89ab5c9f22210bc92ddb6f8c6266acd9429a33c1edaac8c809948016a58a026e
+Description: 微信助手
+Name: 微信助手
+Author: Mao
+Sponsor: admin@25mao.com
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.25mao.miyou.rootless
+Architecture: iphoneos-arm64
+Version: 3.8-8
+Priority: optional
+Section: 微信插件
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/iphoneos-arm64/com.25mao.miyou.rootless_3.8-8_iphoneos-arm64_20260916-0805_454b26487f69371bc6af7e40d50f581faa867931eaef44e28eb523c3ae1dfe60.deb
+Size: 6273820
+MD5sum: a7e4542ee15d44e0f8b5d086a571372c
+SHA1: ee7b8e55bd848496265553103ccef9252e77d07e
+SHA256: 454b26487f69371bc6af7e40d50f581faa867931eaef44e28eb523c3ae1dfe60
+SHA512: 2f4759aa5cc55e3546bdc5680af5da90080911bdd931c6420b8ab6255f9b9fb19ed61328c10b3775711f7cdcfbf3107544a9a391fbdf11eebe200d3862bbd696
+Description: 微信助手
+Name: 微信助手
+Author: Mao
+Sponsor: admin@25mao.com
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.25mao.miyou.rootless
+Architecture: iphoneos-arm64
+Version: 3.8-9
+Priority: optional
+Section: 微信插件
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/iphoneos-arm64/com.25mao.miyou.rootless_3.8-9_iphoneos-arm64_20260916-0805_a0eefb1c16150bad1012bc3aaff2f48c221aa1ca2eaee248029c6dfad4efcff1.deb
+Size: 5147676
+MD5sum: 127c817ff671bd72937837aec7f7dd56
+SHA1: 860bfcfbeda88fe68b65cc808b39fcb4bc895bd2
+SHA256: a0eefb1c16150bad1012bc3aaff2f48c221aa1ca2eaee248029c6dfad4efcff1
+SHA512: 34130eecc33e8a3603cf2180573c44da5beeb76a8d083d050f3c4f468c4d9a281a28e2a9c1fef0762499a5c005998804c5b2a82304ad87c829b2acbb24694516
+Description: 微信助手
+Name: 微信助手
+Author: Mao
+Sponsor: admin@25mao.com
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.25mao.miyou.rootless
+Architecture: iphoneos-arm64
+Version: 3.9-0
+Priority: optional
+Section: 微信插件
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/iphoneos-arm64/com.25mao.miyou.rootless_3.9-0_iphoneos-arm64_20260916-0805_cfdc10c8691ce7bb667afc9b7c19b0f927f29168a45b0abf1e8d294650e7dfe4.deb
+Size: 5141476
+MD5sum: 42bc98aafc6c0cb5449ad6c283318ae2
+SHA1: 74839db30a4e9e81ddce8031b5de1c42407bccba
+SHA256: cfdc10c8691ce7bb667afc9b7c19b0f927f29168a45b0abf1e8d294650e7dfe4
+SHA512: 3dcc6b90c82e43c4154e468355f69648f3e630a63c36ca04199ddff889ec046fcf454ff8f1981869947c30aaf0e5acb936a49e846cd2029abcfe1eec0ac7f0c6
+Description: 微信助手
+Name: 微信助手
+Author: Mao
+Sponsor: admin@25mao.com
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.25mao.miyou.rootless
+Architecture: iphoneos-arm64
+Version: 3.9-1
+Priority: optional
+Section: 微信插件
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/iphoneos-arm64/com.25mao.miyou.rootless_3.9-1_iphoneos-arm64_20260916-0805_6b2954fa9597d206afe59618e66e7b8f4fa66bb16667da2655a4dea6b866f590.deb
+Size: 5188852
+MD5sum: 9a0db12513ca7027563743f405d36ad3
+SHA1: 7363f4a7aafaa517f37f33c229cd5f54f8f6da40
+SHA256: 6b2954fa9597d206afe59618e66e7b8f4fa66bb16667da2655a4dea6b866f590
+SHA512: cc30854f1de15f996b47f7c3f7fb20f724b3752da0a25d3f390174e938c4038f7b4f63d6f6e5b9c3b9b8796c95b8fd8b0d46200c0ebeebe105f025e2ccef3349
+Description: 微信助手
+Name: 微信助手
+Author: Mao
+Sponsor: admin@25mao.com
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.25mao.miyou.rootless
+Architecture: iphoneos-arm64
+Version: 3.9-2
+Priority: optional
+Section: 微信插件
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/iphoneos-arm64/com.25mao.miyou.rootless_3.9-2_iphoneos-arm64_20260916-0805_3210ec90164e7c74289bf6858225b1c3ca74bcd3092810078c5c2325e454f10d.deb
+Size: 4123048
+MD5sum: 0fc9d7767d88287037efd081685c271f
+SHA1: 564d23da80444c8e7e9abe0cf9d434f908660ccd
+SHA256: 3210ec90164e7c74289bf6858225b1c3ca74bcd3092810078c5c2325e454f10d
+SHA512: cf8a3271474e84591636324193bc7b163c1c8c61e16f15bd2139d59b7d6d24fa495bdd5817068e791bf7a028590b1b7ce290438f7da0cc29796f2661551668c2
+Description: 微信助手
+Name: 微信助手
+Author: Mao
+Sponsor: admin@25mao.com
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.25mao.miyou.rootless
+Architecture: iphoneos-arm64
+Version: 3.9-3
+Priority: optional
+Section: 微信插件
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/iphoneos-arm64/com.25mao.miyou.rootless_3.9-3_iphoneos-arm64_20260916-0805_8d090d4d3b49e4417241e023dac61cc8f363f7703a2da4fac7c16600427a6473.deb
+Size: 5113392
+MD5sum: 828785f044f4a24755afe30fa6514cd6
+SHA1: 5953e750a6a5051d1c7b3fdda7fd08d6da858aec
+SHA256: 8d090d4d3b49e4417241e023dac61cc8f363f7703a2da4fac7c16600427a6473
+SHA512: 4c2eaea39a985646c557140ae2f88da5853d590bcf845aa7560f88243e542579eb02f5feeaecf22ffe8ed0ad4eec6bafd1b3375f48aa5a19b3c588a11d09606a
+Description: 微信助手
+Name: 微信助手
+Author: Mao
+Sponsor: admin@25mao.com
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.25mao.miyou.rootless
+Architecture: iphoneos-arm64
+Version: 3.9-5
+Priority: optional
+Section: 微信插件
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/iphoneos-arm64/com.25mao.miyou.rootless_3.9-5_iphoneos-arm64_20260916-0805_2c307ef221b984e63a01d60719c44bd75b4745e55b3c7f39fa4c887631cfca4c.deb
+Size: 5109204
+MD5sum: 90ee0c4aa1875f1890c57d73ca007e90
+SHA1: 8495b99ea94ab663fa9f2867081820ac47a939df
+SHA256: 2c307ef221b984e63a01d60719c44bd75b4745e55b3c7f39fa4c887631cfca4c
+SHA512: 82fa124bacf57cb8c958e9eedfe1fde696a2afdd1ed774d8c8dd07be2de6e6ec462ec956196f476851c4ba4ae8d9fd166328b953fcb020dbe3f6111b49693ef7
+Description: 微信助手
+Name: 微信助手
+Author: Mao
+Sponsor: admin@25mao.com
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.25mao.miyou.rootless
+Architecture: iphoneos-arm64e
+Version: 3.8-0
+Priority: optional
+Section: 微信插件
+Maintainer: admin@25mao.com
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: ./debs/iphoneos-arm64e/com.25mao.miyou.rootless_3.8-0_iphoneos-arm64e_20260916-0805_43ef922089b13502af0bfb4f5a6369e5461ac6e1804f188d789568b104aec239.deb
+Size: 20124276
+MD5sum: 3becbd254b327401453d2ae5884e8ebe
+SHA1: 216546ccf3eb10014c30f9bc9dda7b7613482b7c
+SHA256: 43ef922089b13502af0bfb4f5a6369e5461ac6e1804f188d789568b104aec239
+SHA512: e4f5d433717dd998d728e3b4135baa7768d3cf98be75c0fad82aecfbf174c7746ae1b726745d54359caea5e12e69e55f1bcf6d458fd578ce71f5c0c354209e5d
+Description: 微信助手
+Name: 微信助手
+Author: Mao
+Sponsor: admin@25mao.com
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.25mao.miyou.rootless
+Architecture: iphoneos-arm64e
+Version: 3.8-1
+Priority: optional
+Section: 微信插件
+Maintainer: admin@25mao.com
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: ./debs/iphoneos-arm64e/com.25mao.miyou.rootless_3.8-1_iphoneos-arm64e_20260916-0805_e9145ce6de8a41799121c252f48b1bfc5fcca8b10a30bd7f0785b1a972fdd683.deb
+Size: 24679906
+MD5sum: 366bc9a2657f92db4d9c294b0ad6a7d2
+SHA1: 5a1365799713b71594d8fb6396c4efb259226ce2
+SHA256: e9145ce6de8a41799121c252f48b1bfc5fcca8b10a30bd7f0785b1a972fdd683
+SHA512: 14a31ffb0acd80577a54607d9dce54ed43937a6e12d0d8f6e99b8271b51f86833b0aa34f440b558b14e57f955eb91c97352197506b25473910559408be9c9dcd
+Description: 微信助手
+Name: 微信助手
+Author: Mao
+Sponsor: admin@25mao.com
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.25mao.miyou.rootless
+Architecture: iphoneos-arm64e
+Version: 3.8-2
+Priority: optional
+Section: 微信插件
+Maintainer: admin@25mao.com
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: ./debs/iphoneos-arm64e/com.25mao.miyou.rootless_3.8-2_iphoneos-arm64e_20260916-0805_a5e4231587c6d2f4469e0d8637cd60473ba8624e137cc1f22bea6093156f84cf.deb
+Size: 24494594
+MD5sum: 41f3b5d0fa94458f79bf1df6bf4fd9c9
+SHA1: fa4cfe888c0a88848444ef478c4e1cd38be0d350
+SHA256: a5e4231587c6d2f4469e0d8637cd60473ba8624e137cc1f22bea6093156f84cf
+SHA512: 592781613303ccffc3c92ecfb009068088c0ca28d541359f1dd4e12ef246da493ba845cff5ba95c7afb57a23ff2e54b5d1362aa49789b4476de2aba03ebfa3bc
+Description: 微信助手
+Name: 微信助手
+Author: Mao
+Sponsor: admin@25mao.com
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.25mao.miyou.rootless
+Architecture: iphoneos-arm64e
+Version: 3.8-3
+Priority: optional
+Section: 微信插件
+Maintainer: admin@25mao.com
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: ./debs/iphoneos-arm64e/com.25mao.miyou.rootless_3.8-3_iphoneos-arm64e_20260916-0805_7491ae8a9daa1ad99d0c9ee2cfbf6442374567e3c2a36996dfee2360e099a7ab.deb
+Size: 24697384
+MD5sum: 7fd04fb4ce343897ce02374776e97e53
+SHA1: 7eed9e799c42c3716215a1d1e278f1494be332a2
+SHA256: 7491ae8a9daa1ad99d0c9ee2cfbf6442374567e3c2a36996dfee2360e099a7ab
+SHA512: 7dd7b37aa0eb413feb348af2adc469441010e3d3813244d14d186a174bf90d048c52385cd02be6324b26c9b223e28a1836445ca2c255bc45632dd36822571b67
+Description: 微信助手
+Name: 微信助手
+Author: Mao
+Sponsor: admin@25mao.com
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.25mao.miyou.rootless
+Architecture: iphoneos-arm64e
+Version: 3.8-4
+Priority: optional
+Section: 微信插件
+Maintainer: admin@25mao.com
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: ./debs/iphoneos-arm64e/com.25mao.miyou.rootless_3.8-4_iphoneos-arm64e_20260916-0805_0900b0d8bba4ddc0534438970da88d846e209992761ec063a2ffe32d4c819e36.deb
+Size: 25584540
+MD5sum: d7c9dcf5f7effa7541d11d83c4fdb613
+SHA1: 9123fc62b9b893c5fad9826e882244cd59ab44b8
+SHA256: 0900b0d8bba4ddc0534438970da88d846e209992761ec063a2ffe32d4c819e36
+SHA512: c56baa6203fffde601c902963d58deaac4167e3720bda8be54008949c00177b7a8f3ad373497b91a7a643a231f4c311cb833144e936f5c873ad760df1deed77e
+Description: 微信助手
+Name: 微信助手
+Author: Mao
+Sponsor: admin@25mao.com
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.25mao.miyou.rootless
+Architecture: iphoneos-arm64e
+Version: 3.8-6
+Priority: optional
+Section: 微信插件
+Maintainer: admin@25mao.com
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: ./debs/iphoneos-arm64e/com.25mao.miyou.rootless_3.8-6_iphoneos-arm64e_20260916-0805_16f5197666100571dc36b3fab4c27c8f8a1b5b5b96605ecbe2dd18e62125fb29.deb
+Size: 24817856
+MD5sum: 94ff98a26da70c4b58f119d5b1607d39
+SHA1: e7327ef7e42d79e9373fc3e7393b461dbec9850d
+SHA256: 16f5197666100571dc36b3fab4c27c8f8a1b5b5b96605ecbe2dd18e62125fb29
+SHA512: def1dcd0a24ada56ed1fe146b8dd61affa1178cbe52c9ba6b7f089600c1407d922ef36ac9729f1cd4a0aab063daafb07c548f97d4c0dcb429ee38e4a03741d57
+Description: 微信助手
+Name: 微信助手
+Author: Mao
+Sponsor: admin@25mao.com
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.25mao.miyou.rootless
+Architecture: iphoneos-arm64e
+Version: 3.8-7
+Priority: optional
+Section: 微信插件
+Maintainer: admin@25mao.com
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: ./debs/iphoneos-arm64e/com.25mao.miyou.rootless_3.8-7_iphoneos-arm64e_20260916-0805_99b4af301cb4401412aac42b127e65f0f81b40c58d6368ac0f97c7e00ce2c686.deb
+Size: 16625486
+MD5sum: 2854ff0aaac4ddafe9cfdc21bcb364e6
+SHA1: 645c4771c133983a47f8b7a64345e4c63ab14448
+SHA256: 99b4af301cb4401412aac42b127e65f0f81b40c58d6368ac0f97c7e00ce2c686
+SHA512: c4ea09140bfd71a62816f8cde8729f276223135edc9afef3c1ecf3b7300a58500c2733a6009d15f758da504ecb018bfc0ee33118bf2226026abac5182163e802
+Description: 微信助手
+Name: 微信助手
+Author: Mao
+Sponsor: admin@25mao.com
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.25mao.miyou.rootless
+Architecture: iphoneos-arm64e
+Version: 3.8-8
+Priority: optional
+Section: 微信插件
+Maintainer: admin@25mao.com
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: ./debs/iphoneos-arm64e/com.25mao.miyou.rootless_3.8-8_iphoneos-arm64e_20260916-0805_073dfc9c1d680cd7c20bf0c16a66b89095b0ba6a29e00b5089d1e3a0add0200d.deb
+Size: 16742906
+MD5sum: 343a5b957613260db55c47e714b7f684
+SHA1: 338076d046758d8956b3d5eb19fd420f9d25c7d3
+SHA256: 073dfc9c1d680cd7c20bf0c16a66b89095b0ba6a29e00b5089d1e3a0add0200d
+SHA512: 14f50ebe6f17f256717aec83c6df99b0c169bc57ed9d143dd562fd0f50fdfeb6cd75da55be25d6195159ab48a1ec5d14f1cb9e0610210b1bcad12a3dc5263d16
+Description: 微信助手
+Name: 微信助手
+Author: Mao
+Sponsor: admin@25mao.com
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.25mao.miyou.rootless
+Architecture: iphoneos-arm64e
+Version: 3.8-9
+Priority: optional
+Section: 微信插件
+Maintainer: admin@25mao.com
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: ./debs/iphoneos-arm64e/com.25mao.miyou.rootless_3.8-9_iphoneos-arm64e_20260916-0805_08deca0ae0e153200e2f3ab6855ff015f7284a3ac343f94be0a58d48233ca093.deb
+Size: 13864054
+MD5sum: 66c289135125892ef8e6b2db51547632
+SHA1: 09ab01ea324f306beeb61a022105ff0246b761ac
+SHA256: 08deca0ae0e153200e2f3ab6855ff015f7284a3ac343f94be0a58d48233ca093
+SHA512: 466567ed707e12ffbf5da1d6f65175759400662add08332b9d59e3bbbbe3bad536e8cdcd85a47c7f874144c637db544119756958037069fabb73b38bb40d17e6
+Description: 微信助手
+Name: 微信助手
+Author: Mao
+Sponsor: admin@25mao.com
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.25mao.miyou.rootless
+Architecture: iphoneos-arm64e
+Version: 3.9-0
+Priority: optional
+Section: 微信插件
+Maintainer: admin@25mao.com
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: ./debs/iphoneos-arm64e/com.25mao.miyou.rootless_3.9-0_iphoneos-arm64e_20260916-0805_c151192ad4df16f08410db8bf2faddc3ba5de0f7d5ab0bbf643b4e7d202f6f19.deb
+Size: 13847880
+MD5sum: af8ee8da92d2aded41fc5f832ab917fe
+SHA1: 7b52eb96e66ff60e331f0d5d11865f9f2ce4d979
+SHA256: c151192ad4df16f08410db8bf2faddc3ba5de0f7d5ab0bbf643b4e7d202f6f19
+SHA512: dd81a306db5495a6bb8ead6a7162f8379efd4e433e57b020609f98278650ecbca53a27812cc04024b146f6761317450e81b0eba7e550dd58bd6560c912f8ca49
+Description: 微信助手
+Name: 微信助手
+Author: Mao
+Sponsor: admin@25mao.com
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.25mao.miyou.rootless
+Architecture: iphoneos-arm64e
+Version: 3.9-1
+Priority: optional
+Section: 微信插件
+Maintainer: admin@25mao.com
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: ./debs/iphoneos-arm64e/com.25mao.miyou.rootless_3.9-1_iphoneos-arm64e_20260916-0805_2f02e4e69edd5391154ae2bc035bf7c5420a7db5fb918f970917693084c8bdd1.deb
+Size: 14010812
+MD5sum: fdd07597cf859f05df603006e9bc1431
+SHA1: 3228d614e1613ee5790f38776bd5d31dc1943ccf
+SHA256: 2f02e4e69edd5391154ae2bc035bf7c5420a7db5fb918f970917693084c8bdd1
+SHA512: 79ba4c731f6b0135511269b9906560ace7c1d90419ad7fa42b0367bd6a15e7a9380fa646417b3f69a5a92d44b4709bdf598ce10cd8e89629df9cc84da5d167e8
+Description: 微信助手
+Name: 微信助手
+Author: Mao
+Sponsor: admin@25mao.com
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.25mao.miyou.rootless
+Architecture: iphoneos-arm64e
+Version: 3.9-2
+Priority: optional
+Section: 微信插件
+Maintainer: admin@25mao.com
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: ./debs/iphoneos-arm64e/com.25mao.miyou.rootless_3.9-2_iphoneos-arm64e_20260916-0805_497e63dd4ba12e46df15df1c3d0ca092a1d7639ebdc41da35e7ece3c4dc5edd0.deb
+Size: 11436880
+MD5sum: 3eeb5a541286ecb29b57d61b762f4d1d
+SHA1: f404d30d70bda4f6783a1ed318cc338e1456d486
+SHA256: 497e63dd4ba12e46df15df1c3d0ca092a1d7639ebdc41da35e7ece3c4dc5edd0
+SHA512: 3e129533ea87f98d6032135e9a66bb4641168954e5455c100648abcbbe93c8b4d40f0f691552ad479b7ed12fa635a820e38f9537fc5b2cbea768317b9f2c9961
+Description: 微信助手
+Name: 微信助手
+Author: Mao
+Sponsor: admin@25mao.com
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.25mao.miyou.rootless
+Architecture: iphoneos-arm64e
+Version: 3.9-3
+Priority: optional
+Section: 微信插件
+Maintainer: admin@25mao.com
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: ./debs/iphoneos-arm64e/com.25mao.miyou.rootless_3.9-3_iphoneos-arm64e_20260916-0805_87bb6bc65f1c94b057db21aadda11e5aa9363b7953bcb7a029790b3f9633063c.deb
+Size: 13751728
+MD5sum: 8dbe2323c13a6daba287aabfdb39b508
+SHA1: be574a195ef32938e988b4434e5c504dd929d3ce
+SHA256: 87bb6bc65f1c94b057db21aadda11e5aa9363b7953bcb7a029790b3f9633063c
+SHA512: 10ccedb06523f37eefd524cd9c844916eb04e7e5cf5f7f9924463f7ea619e96f1b0fbdeceeb7eabba8456477953434ba1bfad302082d249dfa1c6e4bedf1ad96
+Description: 微信助手
+Name: 微信助手
+Author: Mao
+Sponsor: admin@25mao.com
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.25mao.miyou.rootless
+Architecture: iphoneos-arm64e
+Version: 3.9-5
+Priority: optional
+Section: 微信插件
+Maintainer: admin@25mao.com
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: ./debs/iphoneos-arm64e/com.25mao.miyou.rootless_3.9-5_iphoneos-arm64e_20260916-0805_3ec305e838b27dd07bf97c8a0ea55159f7179a14fd9c28add9871f81bf97f58e.deb
+Size: 13762702
+MD5sum: f41d77182076602b141cdf439ece0004
+SHA1: bcc856a9288c4b09e3a2f1d24242cca56a0eb00f
+SHA256: 3ec305e838b27dd07bf97c8a0ea55159f7179a14fd9c28add9871f81bf97f58e
+SHA512: 48465ee53aa8172a32c5638cad55c764362ed4f161100478d4b61515b8777cf35afc35292b982193e4520004cee26b31e0e4c34fa74d9652e2d3f33f64de6373
+Description: 微信助手
+Name: 微信助手
+Author: Mao
+Sponsor: admin@25mao.com
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.25mao.msgfilt
+Architecture: iphoneos-arm64
+Version: 1.0-5.1
+Priority: optional
+Section: 微信插件
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/iphoneos-arm64/com.25mao.msgfilt_1.0-5.1_iphoneos-arm64_20260916-0805_45b9386962cb27244c656abfe059d6eaa5d7bc9a7e1997fff3e1df49ff31e63b.deb
+Size: 122280
+MD5sum: bd9bc14c9da34f21531dae7122fa8866
+SHA1: b9248eee5246bbdccae927c5dbc2dd084d2a8563
+SHA256: 45b9386962cb27244c656abfe059d6eaa5d7bc9a7e1997fff3e1df49ff31e63b
+SHA512: 7a6a302c35ec5b17eec8031d74d3e4020554bd85305e357bd873f66355350f6c416277896e03d32230133af13a7cb4fd397f8fb3843f5333f85758a60270af55
+Description: 消息屏蔽助手
+Name: 消息屏蔽助手
+Author: Mao
+Sponsor: admin@25mao.com
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.25mao.msgfilt
+Architecture: iphoneos-arm64
+Version: 1.0-7
+Priority: optional
+Section: 微信插件
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/iphoneos-arm64/com.25mao.msgfilt_1.0-7_iphoneos-arm64_20260916-0805_a84f32c42e52af6cf74578ac4bc35ca9f743e7efa058d992c1eab205cba9ddea.deb
+Size: 144996
+MD5sum: e53a7051ef33a1bdd97c72bde3885419
+SHA1: b5b5148f924f4e92c93059210475d7a23ced32ae
+SHA256: a84f32c42e52af6cf74578ac4bc35ca9f743e7efa058d992c1eab205cba9ddea
+SHA512: c810bd4c4cda275e6ff9bebc1abde245ab311a5e412a78c84abcfa9300dd9224c980f0a735364bc6265f822cd2c3de0cab1f12c2d7c795e2798b3c11eef48f3e
+Description: 消息屏蔽助手
+Name: 消息屏蔽助手
+Author: Mao
+Sponsor: admin@25mao.com
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.25mao.msgfilt
+Architecture: iphoneos-arm64e
+Version: 1.0-5.1
+Priority: optional
+Section: 微信插件
+Maintainer: admin@25mao.com
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: ./debs/iphoneos-arm64e/com.25mao.msgfilt_1.0-5.1_iphoneos-arm64e_20260916-0805_d5127e13743c7293f5ee82e57bb1e0566aae3ed367823c009e87f16ca13b6355.deb
+Size: 123260
+MD5sum: 4d923af7ee2fc6551992fea51a6f633f
+SHA1: 4bf593522c66107e769cb62fec5ed345d297e5da
+SHA256: d5127e13743c7293f5ee82e57bb1e0566aae3ed367823c009e87f16ca13b6355
+SHA512: a66fb393cb62dbc86da2f9a2a520f873291e09bf0936cd107e7497ea5749a8f24189b4da6e1df005791dbeb4feb1b93083b81fc7298c3157d7608c24e79c5279
+Description: 消息屏蔽助手
+Name: 消息屏蔽助手
+Author: Mao
+Sponsor: admin@25mao.com
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.25mao.msgfilt
+Architecture: iphoneos-arm64e
+Version: 1.0-7
+Priority: optional
+Section: 微信插件
+Maintainer: admin@25mao.com
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: ./debs/iphoneos-arm64e/com.25mao.msgfilt_1.0-7_iphoneos-arm64e_20260916-0805_ec42cdf39ea4306c94822454875e8614df1afb2a64a29d710a9f67fe758a96c4.deb
+Size: 190432
+MD5sum: d128008710ce213e7f875a4e5f449037
+SHA1: eb5d72669ffd25067062d44aad8b0b6601eecb29
+SHA256: ec42cdf39ea4306c94822454875e8614df1afb2a64a29d710a9f67fe758a96c4
+SHA512: 776259b7022872e896e9c7ca18c21f3400d4482e3cd4e1fb40539088751bfbd17f2b9947d512982a276eef9ce3b6acda778152e836bb608abb465f276fd0c8c6
+Description: 消息屏蔽助手
+Name: 消息屏蔽助手
+Author: Mao
+Sponsor: admin@25mao.com
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.25mao.wcpluginss
+Architecture: iphoneos-arm64
+Version: 0.1-3
+Section: 微信插件
+Maintainer: admin@25mao.com <admin@25mao.com>
+Depends: firmware (>= 5.0)
+Filename: ./debs/iphoneos-arm64/com.25mao.wcpluginss_0.1-3_iphoneos-arm64_20260916-0805_6e532fe08a8ee77d39959526c892a0c131aba7fdac319f5bce9bf656e420bc19.deb
+Size: 23328
+MD5sum: 8965279f9b2df2b170ba7da5327c2157
+SHA1: 140b44b94516542c99cb3976dddd7a126119e0f0
+SHA256: 6e532fe08a8ee77d39959526c892a0c131aba7fdac319f5bce9bf656e420bc19
+SHA512: 0e17071dec79768ce6898fc550cd1def12af0414b0271b23f248a9ed8cff499fa7324ae93c93b1e6b61c97ccedbbae6062a1221ca864f8b771ccf4dbedfd866f
+Description: 插件管理，长按插件图标可开启密码隐藏。
+Name: 微信插件管理
+Author: Mao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.25mao.wcpluginss
+Architecture: iphoneos-arm64
+Version: 0.1-3+
+Section: 微信插件
+Maintainer: admin@25mao.com <admin@25mao.com>
+Depends: firmware (>= 5.0)
+Filename: ./debs/iphoneos-arm64/com.25mao.wcpluginss_0.1-3+_iphoneos-arm64_20260916-0805_8cb93fefabf775796cb7dc95587a00ada6bdc9ddd162f2caf44805cb72fab64e.deb
+Size: 19704
+MD5sum: 1cc464d82654a4963717e3144da19e63
+SHA1: 16f1d158499e7ca8c77bb72d00989a7451a00f92
+SHA256: 8cb93fefabf775796cb7dc95587a00ada6bdc9ddd162f2caf44805cb72fab64e
+SHA512: 33d58ac8ca1cc8ec5ba3f040544fe28fd59830d68b72695b612388e65da3d3c3d342af4520c11d8ea0c3f92e319b93d19d48ea6628ba0ed32022a93924adb9c1
+Description: 插件管理，长按插件图标可开启密码隐藏。
+Name: 微信插件管理
+Author: Mao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.25mao.wcpluginss
+Architecture: iphoneos-arm64e
+Version: 0.1-3
+Section: 微信插件
+Maintainer: admin@25mao.com <admin@25mao.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: ./debs/iphoneos-arm64e/com.25mao.wcpluginss_0.1-3_iphoneos-arm64e_20260916-0805_c707d6f00fa22f2ed6feccbf5ca21ea9a057df7c294e376559ef4b60456d5bfa.deb
+Size: 31546
+MD5sum: 3358cd3510c5b24c1510f6a081c3937c
+SHA1: 6b68a6d9d902d119df74effcbaa5b6227073b524
+SHA256: c707d6f00fa22f2ed6feccbf5ca21ea9a057df7c294e376559ef4b60456d5bfa
+SHA512: 1bebe25a6914bbf773c8b9ee523c5795e009f062bf396ec6dd3efaa2b349a9835e211a7dcae800782249fc029aee3e95b57b8a5457384cd2226abf40584fb905
+Description: 插件管理，长按插件图标可开启密码隐藏。
+Name: 微信插件管理
+Author: Mao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.25mao.wcpluginss
+Architecture: iphoneos-arm64e
+Version: 0.1-3+
+Section: 微信插件
+Maintainer: admin@25mao.com <admin@25mao.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: ./debs/iphoneos-arm64e/com.25mao.wcpluginss_0.1-3+_iphoneos-arm64e_20260916-0805_2a4598c8ed958a4931081a323ff56aa9988e9073a06fae091cfe5660e1f1fb06.deb
+Size: 26420
+MD5sum: 47249ec58ba5485b9916bdb93b731b44
+SHA1: 3c03ce8dd3c42a67280f66fca6cb41baf78fbd47
+SHA256: 2a4598c8ed958a4931081a323ff56aa9988e9073a06fae091cfe5660e1f1fb06
+SHA512: 4c05fdc31484d95e50403f2d93a3913e2796350bc497ca91493d55ddb51f46211302cf4112a104bdcb1fba7e110c867a5f8eac70691c3716003d3e14d8bd54a8
+Description: 插件管理，长按插件图标可开启密码隐藏。
+Name: 微信插件管理
+Author: Mao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.HBWechatHelper.ailun
+Architecture: iphoneos-arm64
+Version: 1.7-8
+Section: 微信插件
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.hbwechathelper.ailun_1.7-8_iphoneos-arm64_20260916-0805_11ec0b6d417afa04b536597f27f1fe21c3c205b362cb3ca5cea81ff16cc2c10a.deb
+Size: 11212748
+MD5sum: f6deb8cb20fbf1fc318d5c5c9f2a6e02
+SHA1: 3bc0b66cbbdec97d9fc7e681622d8a5deb30b56d
+SHA256: 11ec0b6d417afa04b536597f27f1fe21c3c205b362cb3ca5cea81ff16cc2c10a
+SHA512: fddc21e9144d424b11d605cdb3d1ea59334cf655bc26a4cc4ab5279cb2a68b6f54c6ef34c5c374682505b1f87f9daa3a52c88def27fbbfea49cf7853fab50da5
+Description: 点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况Live图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载dylib文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能。上架备份。
+Name: 黄白助手
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.HBWechatHelper.ailun
+Architecture: iphoneos-arm64
+Version: 1.7-9
+Section: 微信插件
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.hbwechathelper.ailun_1.7-9_iphoneos-arm64_20260916-0805_c98cf93db5a8cbe544684727453bc969914b9929d67d5d6f55dd4934b29de026.deb
+Size: 11097880
+MD5sum: f17e596e93e34cca2cb19a4a844a91e7
+SHA1: 162ea779b68736593af25e401a0a45a04d587f96
+SHA256: c98cf93db5a8cbe544684727453bc969914b9929d67d5d6f55dd4934b29de026
+SHA512: 23b9b701987405738ea32a4c001a520506c07c7657af03083096459cb077efb6180b4059e229af128411ee462bad60a8cfd7f08019e689c5e381505b4d3fc075
+Description: 点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况Live图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载dylib文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能。上架备份。
+Name: 黄白助手
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.HBWechatHelper.ailun
+Architecture: iphoneos-arm64
+Version: 1.8.0
+Section: 微信插件
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.hbwechathelper.ailun_1.8.0_iphoneos-arm64_20260916-0805_953a04908c85e8e5a9efcf32642edb7623cd55df47f45f6b11a8d9f28b5ada9c.deb
+Size: 11208472
+MD5sum: 7763bc5f3d622b1b14847c08f5b1ae61
+SHA1: a356f2729084f598385b9812d77928c4c71bf0c8
+SHA256: 953a04908c85e8e5a9efcf32642edb7623cd55df47f45f6b11a8d9f28b5ada9c
+SHA512: bd88a496ab2cb76c19a1e3263f5dcbb91f80e293faf56ec268ee2ed8084b2436078e00cb0756f46b5535e5e99cb19a2209ddccd59640604a0515789fcd038f0b
+Description: 点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况Live图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载dylib文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能。上架备份。
+Name: 黄白助手
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.HBWechatHelper.ailun
+Architecture: iphoneos-arm64
+Version: 1.8.1
+Section: 微信插件
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.hbwechathelper.ailun_1.8.1_iphoneos-arm64_20260916-0805_1c1e8195c9086adfd47122b78355e7e0b5851e8d42db766149a2ae67ca826715.deb
+Size: 11166196
+MD5sum: 568fb2b6d6f0945dcc366e28a4449e26
+SHA1: 10b466057cb4ca625db182185fb46fb5c6a60e20
+SHA256: 1c1e8195c9086adfd47122b78355e7e0b5851e8d42db766149a2ae67ca826715
+SHA512: a5e9d7a4c5c9943d0c1f6846653bca8a08d98cf8edcd368803fa6b9b54f4c47fe89219481b3d6d6e7c7de4e024ba2646ea18d76a875aa02ab3bb2877642d43be
+Description: 点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况Live图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载dylib文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能。上架备份。
+Name: 黄白助手
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.HBWechatHelper.ailun
+Architecture: iphoneos-arm64
+Version: 1.8.2
+Section: 微信插件
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.hbwechathelper.ailun_1.8.2_iphoneos-arm64_20260916-0805_08a652be51be0914afb89fc2101a759a7b7ffc436b01ca3948795e6d94da0c6d.deb
+Size: 11091700
+MD5sum: 1cba9d52e8d141694be771f73cba8849
+SHA1: db6603fdbfb7cfd3ccac96c38c3f854941d87bb2
+SHA256: 08a652be51be0914afb89fc2101a759a7b7ffc436b01ca3948795e6d94da0c6d
+SHA512: 37f9d8700dbd92e8476978c2422a475f108fdc1548141dec38c1dc76aea06ea13e058cf1dac3762bf0d85db6e9b8d4a5222ab2146d46c7bccddfd913ec7e789f
+Description: 点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况Live图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载dylib文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能。上架备份。
+Name: 黄白助手
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.HBWechatHelper.ailun
+Architecture: iphoneos-arm64
+Version: 1.8.3
+Section: 微信插件
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.hbwechathelper.ailun_1.8.3_iphoneos-arm64_20260916-0805_bffca9b19f0e92f94c251d2b388612d9c47d480464c68e9fe9b0ac5fe168a1df.deb
+Size: 11052392
+MD5sum: a662dfaa2d7a4ff5ba279cdad724ce67
+SHA1: d88dd3e3e4b089fceaec08f714a5c80b9defda6b
+SHA256: bffca9b19f0e92f94c251d2b388612d9c47d480464c68e9fe9b0ac5fe168a1df
+SHA512: 79bc8d4edd80ed753ba0891678d5b98ec3e113d7c382187e88c36b0d218b7fa264da60fe408812875747191af097ad16809fa6d623cc6e9d8f6a18dc997d465e
+Description: 点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况Live图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载dylib文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能。上架备份。
+Name: 黄白助手
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.HBWechatHelper.ailun
+Architecture: iphoneos-arm64
+Version: 1.8.4
+Section: 微信插件
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.hbwechathelper.ailun_1.8.4_iphoneos-arm64_20260916-0805_1b657687b356faff3a425d4f1824214a41cc12d33577b0642e7447dfda4577d0.deb
+Size: 11155444
+MD5sum: 04113a7ce638e5bb87e42eae9b706726
+SHA1: 2b9b716aca7357673d901ce01716a145835b0cdd
+SHA256: 1b657687b356faff3a425d4f1824214a41cc12d33577b0642e7447dfda4577d0
+SHA512: fbe006847e6eb5ed1c40a4e11026712a75f5c4071c87e172edd176d8f13eb91631a2980b0b60482874b565dee79e9c6c0b2b1f141839a90dfb052cadfa9065f3
+Description: 点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况Live图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载dylib文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能。上架备份。
+Name: 黄白助手
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.HBWechatHelper.ailun
+Architecture: iphoneos-arm64
+Version: 1.8.5
+Section: 微信插件
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.hbwechathelper.ailun_1.8.5_iphoneos-arm64_20260916-0805_73b8ae4e240dd2ef0722205c76c0c553a165ddeb9c8450beb18d631e9f99117e.deb
+Size: 11192100
+MD5sum: b85ac437e1ccbc61b7f127199b594105
+SHA1: aabc88fec14304dff17c2f948aedd95c730e0460
+SHA256: 73b8ae4e240dd2ef0722205c76c0c553a165ddeb9c8450beb18d631e9f99117e
+SHA512: e0a910b1e736b74c5f3397ab4eb304a0f5a96e897160a8bcee67be41558f85de1383a683afb3e82488c064028d19d3444995b4771334d9f84464af3fd4eb80fa
+Description: 点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况Live图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载dylib文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能。上架备份。
+Name: 黄白助手
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.HBWechatHelper.ailun
+Architecture: iphoneos-arm64
+Version: 1.8.6
+Section: 微信插件
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.hbwechathelper.ailun_1.8.6_iphoneos-arm64_20260916-0805_0ac588cb623a78e798942d66c4aaf99073da40000fdb3e38007c706d445426a4.deb
+Size: 11725420
+MD5sum: 18190191001562ab40c8ba3a6d948477
+SHA1: a23e814d798e947d55bb32f3addc66474ca1fe9b
+SHA256: 0ac588cb623a78e798942d66c4aaf99073da40000fdb3e38007c706d445426a4
+SHA512: ade115d9f00ee7870fde536e6ed612f8117caab0610d4054441d5fc2fb5f49e3aa982fa5161d27351ac30ea49c59943a9e1c035c183f2ee71205424b076453c6
+Description: 点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况Live图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载dylib文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能。上架备份。
+Name: 黄白助手
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.HBWechatHelper.ailun
+Architecture: iphoneos-arm64
+Version: 1.8.7
+Section: 微信插件
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.hbwechathelper.ailun_1.8.7_iphoneos-arm64_20260916-0805_db67a99ba4e14d91d1eff1b556f699215b89c13b9c02f2958a5c9e077b31e357.deb
+Size: 11343612
+MD5sum: a931aa8ff72536791583bd86cccca68e
+SHA1: 7315319260bc211fa5169792ad7f464c62348696
+SHA256: db67a99ba4e14d91d1eff1b556f699215b89c13b9c02f2958a5c9e077b31e357
+SHA512: c77e92ae4fc7196ba504da8e34e311e4b3fb9c275b733ce2653ba01dbc4c1bf813c843f21011f6ef8e4a8ab25858e7f1850c15e816227af52edf588f51205023
+Description: 点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况Live图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载dylib文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能。上架备份。
+Name: 黄白助手
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.HBWechatHelper.ailun
+Architecture: iphoneos-arm64
+Version: 1.8.8
+Section: 微信插件
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.hbwechathelper.ailun_1.8.8_iphoneos-arm64_20260916-0805_c2d479ee254961d53bb64fb1231588aae2661ad7d21b1195502c13dbe2c0db9b.deb
+Size: 11552040
+MD5sum: 11d453cac3ad468418e0ae98a9c93b42
+SHA1: 4c7abd2ea89979ceda5442596ac5f09c4484322e
+SHA256: c2d479ee254961d53bb64fb1231588aae2661ad7d21b1195502c13dbe2c0db9b
+SHA512: a568d0557e65ef602e76e7f9beb679ec4e70a7921b50276138ca7f5ce8f7d72e1230553e1523830ea790c0528ccf11460b1114a1d64cecf6d41b49f4b8f31c49
+Description: 点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况Live图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载dylib文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能。上架备份。
+Name: 黄白助手
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.HBWechatHelper.ailun
+Architecture: iphoneos-arm64
+Version: 1.8.9
+Section: 微信插件
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.hbwechathelper.ailun_1.8.9_iphoneos-arm64_20260916-0805_6f804dc1bf74387c8ddd4df9f52861683d369c33ea551092f07a110d60c1b130.deb
+Size: 11536076
+MD5sum: 70f3a1acc44035d2e6cacb3fa13a0063
+SHA1: f9b9426e922c8ee038d546a45c549942bf002470
+SHA256: 6f804dc1bf74387c8ddd4df9f52861683d369c33ea551092f07a110d60c1b130
+SHA512: f833e92ab20b3aeb3b63bdf49eb59a26fe2f7b8594ccae6a09ad07a2661db50cf814aaed151fe3c020a70838ecc5f931a871cbabc861c118f3e1768734453ce2
+Description: 点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况Live图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载dylib文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能。上架备份。
+Name: 黄白助手
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.HBWechatHelper.ailun
+Architecture: iphoneos-arm64
+Version: 1.9.0
+Section: 微信插件
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.hbwechathelper.ailun_1.9.0_iphoneos-arm64_20260916-0805_5ebd96718e26ecc6da63e385fc92f1e3a86bd397e819dab065c92ac43c918ffb.deb
+Size: 11829072
+MD5sum: e292ca2fdfc96d8b58827ac9c70fa347
+SHA1: e1f6e104dd695a44a43804c3e68ea05e72a322c1
+SHA256: 5ebd96718e26ecc6da63e385fc92f1e3a86bd397e819dab065c92ac43c918ffb
+SHA512: 3f750dacc616548a127990eb6c54e6d6255686bc825a095a7d2a5e590aa1bfbd355c1e0e8ade2daaa60febff1937866d56292a1b901c7d56bfc5933c7dd357ce
+Description: 点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况Live图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载dylib文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能。上架备份。
+Name: 黄白助手
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.HBWechatHelper.ailun
+Architecture: iphoneos-arm64
+Version: 1.9.1
+Section: 微信插件
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.hbwechathelper.ailun_1.9.1_iphoneos-arm64_20260916-0805_f0268cc3d9279d5034391aad7551eb12a21e33cd634c1aa986ee176c79e0d404.deb
+Size: 11583132
+MD5sum: 246524cbe25b7a3722789a78982b8ed8
+SHA1: 4ddf4ff09cd48df8059647c3ceead592c52df792
+SHA256: f0268cc3d9279d5034391aad7551eb12a21e33cd634c1aa986ee176c79e0d404
+SHA512: 9fdf47b5eeeb103f4666993195760dbaca689e89044831eeb9c9c08487d9a3890ec2d6056536359aa4c81f3e3007486ca5363b74cc368931d78b42e201a02c15
+Description: 点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况Live图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载dylib文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能。上架备份。
+Name: 黄白助手
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.HBWechatHelper.ailun
+Architecture: iphoneos-arm64
+Version: 1.9.2
+Section: 微信插件
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.hbwechathelper.ailun_1.9.2_iphoneos-arm64_20260916-0805_af49d6a818c91971fb8a153d00680c55b9ae9183b47320e0034cc444b803a9bd.deb
+Size: 12052864
+MD5sum: 3f84419980fb6fe4fdc59cef0037ea7d
+SHA1: 85800efb469e28e617f849d85ce6601d4dc41fc1
+SHA256: af49d6a818c91971fb8a153d00680c55b9ae9183b47320e0034cc444b803a9bd
+SHA512: 9249b23956d8f23395477b09ecb10418e07b371e70812f11976f365b73209d0487ecda2d40f014b08bf79b3adc75a071e353ebbe6b834f9bdc73fd022c841fbd
+Description: 点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况Live图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载dylib文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能。上架备份。
+Name: 黄白助手
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.HBWechatHelper.ailun
+Architecture: iphoneos-arm64
+Version: 1.9.3
+Section: 微信插件
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.hbwechathelper.ailun_1.9.3_iphoneos-arm64_20260916-0805_8473121a45041f4376e22f22cd128226b834fbdf1c6e6ec607e309b7b8263961.deb
+Size: 12233124
+MD5sum: 063a658630ac62d25a35bf01642bd852
+SHA1: 94faaf968f210bb34eed11df985a0e8cb680511d
+SHA256: 8473121a45041f4376e22f22cd128226b834fbdf1c6e6ec607e309b7b8263961
+SHA512: 2c38e767cd2293c727134c1daa17cc3d27be3f4bc44f8b7e40d1682094fd752f7f10bb891f181a4c352b6079421a47868a38bf6b26f5d9158183f4c673e08d6c
+Description: 点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况Live图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载dylib文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能。上架备份。
+Name: 黄白助手
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.HBWechatHelper.ailun
+Architecture: iphoneos-arm64
+Version: 1.9.4
+Section: 微信插件
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.hbwechathelper.ailun_1.9.4_iphoneos-arm64_20260916-0805_195c9b1bcc6840f68e3ffb84135d8604217578b06e94ac8f2b059dc0eb57b7e8.deb
+Size: 12147152
+MD5sum: 56188c764b9a7ce9fdb8627b085e3ce3
+SHA1: 57f81f7cef00f61b5b98c04c7acb043a7457c176
+SHA256: 195c9b1bcc6840f68e3ffb84135d8604217578b06e94ac8f2b059dc0eb57b7e8
+SHA512: 4da949b2f7cf75345a189c8fa43cc93d763f50b3e8a0a027467c8e5f280214e7672ce4bee93775b1eac1e05e20ec4467095daa64f842cb40bbc4142077745721
+Description: 点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况Live图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载dylib文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能。上架备份。
+Name: 黄白助手
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.HBWechatHelper.ailun
+Architecture: iphoneos-arm64
+Version: 1.9.5
+Section: 微信插件
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.hbwechathelper.ailun_1.9.5_iphoneos-arm64_20260916-0805_b00b67d0e43ad5df33359dcecf62905cb011d581485f5df9ea63c2b5f42f9825.deb
+Size: 12416204
+MD5sum: e9d50ea14250a8914a6d7aff45d822c1
+SHA1: 0dc5c9b0feb30e9ef1df9d251d023b0a38bbd6e6
+SHA256: b00b67d0e43ad5df33359dcecf62905cb011d581485f5df9ea63c2b5f42f9825
+SHA512: 55f2f0644f0ff6856569224e3dd82a21d2e8d5d5961d14ed0016679d56bfc84721a09bf9511555fb6920de60ecfe54c5cbace9141a98672361504ce8ff169234
+Description: 点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况Live图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载dylib文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能。上架备份。
+Name: 黄白助手
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.HBWechatHelper.ailun
+Architecture: iphoneos-arm64
+Version: 1.9.6
+Section: 微信插件
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.hbwechathelper.ailun_1.9.6_iphoneos-arm64_20260916-0805_8cf5790226408911a3f5e9038842704a206dac6c00f8b28c3e0112937a467e48.deb
+Size: 12411700
+MD5sum: d6f7d326d4deaa66290f5a2d36ddf4f9
+SHA1: dbbccc314d8d89e4228b9d5f81b9604fa642dc73
+SHA256: 8cf5790226408911a3f5e9038842704a206dac6c00f8b28c3e0112937a467e48
+SHA512: 60159958f7906ce72e281354deb285bf76405cf5f6a7ab443b455327f23b139f1b7c4ba1fde5f08e846e341184ead5f3aa090ff424b800bf2c752c2349c72d8c
+Description: 点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况Live图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载dylib文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能。上架备份。
+Name: 黄白助手
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.HBWechatHelper.ailun
+Architecture: iphoneos-arm64
+Version: 1.9.7
+Section: 微信插件
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.hbwechathelper.ailun_1.9.7_iphoneos-arm64_20260916-0805_d33a2a5a574e0dffa510c6a46d545bf5d346a061a79e10d9aafb7cad26673a38.deb
+Size: 12802292
+MD5sum: 2954cf1250dceedb3166073a9be2b7ea
+SHA1: 075f1a183eb765eb46781b28f30690e32be6d881
+SHA256: d33a2a5a574e0dffa510c6a46d545bf5d346a061a79e10d9aafb7cad26673a38
+SHA512: 19ce8f4e2e0d20944f3a6c54ee6c228c30291fc6e4499f37042530ecafe51236a20003a93ff57b3ef1b895921848eecef6439caf3c6486160bb9b21fe058cd8c
+Description: 点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况Live图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载dylib文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能。上架备份。
+Name: 黄白助手
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.HBWechatHelper.ailun
+Architecture: iphoneos-arm64
+Version: 1.9.8
+Section: 微信插件
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.hbwechathelper.ailun_1.9.8_iphoneos-arm64_20260916-0805_7e0c70e19018ef1eceedf3fe7fd985087245b03e13074720e2209f5718e0cd11.deb
+Size: 11884800
+MD5sum: ee27c4698ff6bdd85512162bd787211d
+SHA1: f8935efb18abe52259113d2400ee2b32983dd147
+SHA256: 7e0c70e19018ef1eceedf3fe7fd985087245b03e13074720e2209f5718e0cd11
+SHA512: 8deb4622822d861a486304457df2cb7334f9dcc11b377c2e2d351c07391d9a31cb20824ba77d0c5ffe91468bdd809e5c22712dd946b3387725d9bb69cd29b28d
+Description: 点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况Live图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载dylib文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能。上架备份。
+Name: 黄白助手
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.HBWechatHelper.ailun
+Architecture: iphoneos-arm64
+Version: 1.9.9
+Section: 微信插件
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.hbwechathelper.ailun_1.9.9_iphoneos-arm64_20260916-0805_f9099883323aa81aecf11880ca3b4fa2b9122df3eef47452e3f99cb217f1e5d2.deb
+Size: 12755440
+MD5sum: 5f23f253b99eb44bf17701c31b52a00e
+SHA1: b749b650c707039c8d8020ff613b69955b4a4d79
+SHA256: f9099883323aa81aecf11880ca3b4fa2b9122df3eef47452e3f99cb217f1e5d2
+SHA512: 85ced8c05e8e5eab85323755dee06e571d476629d0aa3ce34b1330f361a61f6484f98011669cea6b01514d60ecf7461d98c20c4b4a65e103cd52c759395b6c4c
+Description: 点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况Live图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载dylib文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能。上架备份。
+Name: 黄白助手
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.HBWechatHelper.ailun
+Architecture: iphoneos-arm64
+Version: 2.0.1
+Section: 微信插件
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.hbwechathelper.ailun_2.0.1_iphoneos-arm64_20260916-0805_af5e579d2962b9d4d18dbc1691c99f32a6050ab3e5d3b853f33df90c9baab297.deb
+Size: 12777316
+MD5sum: 093d0e12d10555a8e4d9051533c9946f
+SHA1: fa63e09d42be231c830f3fd03aadf4c71779140c
+SHA256: af5e579d2962b9d4d18dbc1691c99f32a6050ab3e5d3b853f33df90c9baab297
+SHA512: 6de68ad8dd8e62a479e663202966415870d4b1c32ea15b2d4c599273e13acf58438269317ecb785a87d34455f5bfc30f9c450a86577d287fb87765a63347a0b1
+Description: 点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况Live图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载dylib文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能。上架备份。
+Name: 黄白助手
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.HBWechatHelper.ailun
+Architecture: iphoneos-arm64
+Version: 2.0.2
+Section: 微信插件
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.hbwechathelper.ailun_2.0.2_iphoneos-arm64_20260916-0805_dd26780239f98f7ef7bd46650b5756a7a8617d362561b9469a66b5c9055325a8.deb
+Size: 12905692
+MD5sum: b823430c7e6c13e262a021db786272e9
+SHA1: 3e514e78ceabc1306e80b58a5f4248cd121eda43
+SHA256: dd26780239f98f7ef7bd46650b5756a7a8617d362561b9469a66b5c9055325a8
+SHA512: 3894cc777be29321def9868085a1aaf9751e75d26eb0e73fed7836e74cd4d07be50ac82f337de2e9e1604de617c07d11bd691052385d5b76086a001820c571b3
+Description: 点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况Live图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载dylib文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能。上架备份。
+Name: 黄白助手
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.HBWechatHelper.ailun
+Architecture: iphoneos-arm64
+Version: 2.0.3
+Section: 微信插件
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.hbwechathelper.ailun_2.0.3_iphoneos-arm64_20260916-0805_1927a9869a8307de51bdb4ea58390ea7f01553e016c30b1ed8a312532b11e70d.deb
+Size: 13145464
+MD5sum: 5caaef761e47e310e38c9274a84752c4
+SHA1: 503afbad3ee07968372543556c0315228667bc24
+SHA256: 1927a9869a8307de51bdb4ea58390ea7f01553e016c30b1ed8a312532b11e70d
+SHA512: c632ab9430de3c6aeb91a3b4777774c397fb4df490d21a483677bc0765cbfee88b3adbba3fedce49ff2e0bb7fec30f95a7840da64953de9a048fe741969484ef
+Description: 点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况Live图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载dylib文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能。上架备份。
+Name: 黄白助手
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.HBWechatHelper.ailun
+Architecture: iphoneos-arm64
+Version: 2.0.5
+Section: 微信插件
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.hbwechathelper.ailun_2.0.5_iphoneos-arm64_20260916-0805_864b7687c5d3cfe889cc98286fb1bb755144ba3d1e5f8dc845c23777dcf3d540.deb
+Size: 13078824
+MD5sum: e0c8324cca62b100f04cc09f7e492d90
+SHA1: 1b594779199df104d9df5e52e22e3776eacf3b33
+SHA256: 864b7687c5d3cfe889cc98286fb1bb755144ba3d1e5f8dc845c23777dcf3d540
+SHA512: 8945e314c8b57c8174ec475f61715a8d76dd18a1c52e238295682ee614e854ed44a550c76c90dc4bf99d2922ecb21b5ac099683e6fdb5a7440a88fc0f87550e4
+Description: 点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况Live图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载dylib文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能。上架备份。
+Name: 黄白助手
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.HBWechatHelper.ailun
+Architecture: iphoneos-arm64
+Version: 2.0.6
+Section: 微信插件
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.hbwechathelper.ailun_2.0.6_iphoneos-arm64_20260916-0805_d72f4c97492c1546e78c4144f5400e5df621839e94d2978f1470ca60fd4baa04.deb
+Size: 13537092
+MD5sum: f4459f1669826c94f9e2e36ffe0aee26
+SHA1: 4d047e2d37a06739dc72f0c98007550690961348
+SHA256: d72f4c97492c1546e78c4144f5400e5df621839e94d2978f1470ca60fd4baa04
+SHA512: 6f796958a139b2e4c549fc3adcb4e0f0b959aec5dba8bcaa0e37d27f20349ab4f6a7e4c1e15df98f4d306de70fdd7598814e65ebfe6758ad5d9b762b49159ba7
+Description: 点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况Live图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载dylib文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能。上架备份。
+Name: 黄白助手
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.HBWechatHelper.ailun
+Architecture: iphoneos-arm64
+Version: 2.0.7
+Section: 微信插件
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.hbwechathelper.ailun_2.0.7_iphoneos-arm64_20260916-0805_f5e9b1c0f0677899aa246efdd576012630321ce9a79abd4fef7fef2156e5e260.deb
+Size: 13427464
+MD5sum: 58827abbb938e4e2c14496e5a6a1da0c
+SHA1: 18d130f3e34037f2a28265b4c2a43d2a8a643a5b
+SHA256: f5e9b1c0f0677899aa246efdd576012630321ce9a79abd4fef7fef2156e5e260
+SHA512: 1b26ff508adbb25446d2f9ca9ae60b4edbc1f7674e31598701be01efb8a3abf8093c9b50ab6ad7cd4b985a27b36711c73b19a8be12b3367d53489d4fe1c3bf00
+Description: 点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况Live图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载dylib文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能。上架备份。
+Name: 黄白助手
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.HBWechatHelper.ailun
+Architecture: iphoneos-arm64
+Version: 2.0.8
+Section: 微信插件
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.hbwechathelper.ailun_2.0.8_iphoneos-arm64_20260916-0805_39cdf46410c13d34d5376f0107803566e23decbab2235d6f1214f51adfd3648d.deb
+Size: 13963972
+MD5sum: a80551c910d130b3e4430e2157281e50
+SHA1: 0599cfe2d61c307ffb4b1aa15f3a3a46e5d2d2c7
+SHA256: 39cdf46410c13d34d5376f0107803566e23decbab2235d6f1214f51adfd3648d
+SHA512: b2da8a68d7c3f04c155adf4f57c0445f7f11c71538228f7e7dc4978249b5e488620c8bfc80d955bb9d73bb92cda2d674317742311bee795121995148b0352a7d
+Description: 点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况Live图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载dylib文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能。上架备份。
+Name: 黄白助手
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.HBWechatHelper.ailun
+Architecture: iphoneos-arm64
+Version: 2.0.9
+Section: 微信插件
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.hbwechathelper.ailun_2.0.9_iphoneos-arm64_20260916-0805_4ab0be5aa544fa64b466099bcd8fe632c9c16c724f0c260260239d3add77c5a5.deb
+Size: 13848884
+MD5sum: bb652fe6f78aad26fa9079a52bb20f9f
+SHA1: d438390abd4f9a864f543a8ab95242a576d99c9f
+SHA256: 4ab0be5aa544fa64b466099bcd8fe632c9c16c724f0c260260239d3add77c5a5
+SHA512: 7bdef3fd7166054adfc4cba7ca113dee3ff17c539fb179426f205567e38505d15911dbb36a91b05eddd6f937598dc1eba544f28ea098ce0c69e7c5f67d2fb381
+Description: 点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况Live图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载dylib文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能。上架备份。
+Name: 黄白助手
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.HBWechatHelper.ailun
+Architecture: iphoneos-arm64
+Version: 2.1.1
+Section: 微信插件
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.hbwechathelper.ailun_2.1.1_iphoneos-arm64_20260916-0805_6fbec9c60f71f3c009826afb99aad233d8bb93ca8b92b5df72f62e4dbf441aed.deb
+Size: 13978668
+MD5sum: 7ae3c92c17e662d48c8aad54e4bf7801
+SHA1: 3dd561ac0bb59c3cd9cadbb0ed5e0e691ba27049
+SHA256: 6fbec9c60f71f3c009826afb99aad233d8bb93ca8b92b5df72f62e4dbf441aed
+SHA512: 8e58a86b48d453268b7221919293a84b89340b2002b0f8efe31fd0804b2846540c3e29afba126a93c5e98509a811e4da8dea48a36492ae9d30071274eb195f9d
+Description: 点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况Live图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载dylib文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能。上架备份。
+Name: 黄白助手
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.HBWechatHelper.ailun
+Architecture: iphoneos-arm64
+Version: 2.1.2
+Section: 微信插件
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.hbwechathelper.ailun_2.1.2_iphoneos-arm64_20260916-0805_e7c17d65aad312046355563d6ae5838f6fccbe05ce78324e09b2b6abc8259b53.deb
+Size: 11024600
+MD5sum: 7dbc29f429472f9fa4dffae6ab77604d
+SHA1: de29bc52d81a32814158f1a90ea46f0a0fa49f60
+SHA256: e7c17d65aad312046355563d6ae5838f6fccbe05ce78324e09b2b6abc8259b53
+SHA512: d3c403c60f747536b9606bf318546876a01d5ce5d22db839dd2fd65d6f748cac3004ed196a1ecb177f4cbc66d6a1a17819777b55f403e14466e3823f16319e55
+Description: 点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况Live图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载dylib文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能。上架备份。
+Name: 黄白助手
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.HBWechatHelper.ailun
+Architecture: iphoneos-arm64
+Version: 2.1.4
+Section: 微信插件
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.hbwechathelper.ailun_2.1.4_iphoneos-arm64_20260916-0805_2fa10776a8f8190602acbe195f18b6b39ecc9ec48d5f90fd4c37f0fa61e8bfa3.deb
+Size: 11813076
+MD5sum: a54edb7a45047daf0ac981b71667d9a1
+SHA1: 3576f61165428e997e5682c0269aa50f5c59c624
+SHA256: 2fa10776a8f8190602acbe195f18b6b39ecc9ec48d5f90fd4c37f0fa61e8bfa3
+SHA512: 9771307f324a204153cde58301d1998cbe1c50bf662581c45cc2c9ff98c85cb7b98585a2d629615d3d14852e64052ab84eac5d5485aceaee02886f288a7f3b27
+Description: 点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况Live图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载dylib文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能。上架备份。
+Name: 黄白助手
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.Purifyads
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: 微信插件
+Maintainer: null
+Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
+Filename: ./debs/iphoneos-arm64/com.purifyads_1.0_iphoneos-arm64_20260916-0805_996a4a67ce7ada5c167acb007a60bb8d63f7120de642c70e0a737f4d4105f2c5.deb
+Size: 5244
+MD5sum: e642e1a44ebf2f55f5f082b459d21c6c
+SHA1: 2f93771ea43218e5d41a8a10688de2afd511f3cd
+SHA256: 996a4a67ce7ada5c167acb007a60bb8d63f7120de642c70e0a737f4d4105f2c5
+SHA512: 0e8bf6f170cd7e3b8dfd5071d5534dba1920415be98abf66c3bd84a60aa141443bd26eba8205bdcf823629a4f7f03df1f703eb4a7629a59f1c4845d8217bed72
+Description: 31/33版本去广告的友好版本。（只针对这俩版本）
+Name: Purifyads
+Author: null
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.Purifyads
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: 微信插件
+Maintainer: null
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
+Filename: ./debs/iphoneos-arm64e/com.purifyads_1.0_iphoneos-arm64e_20260916-0805_d08b2744ce107c8132b283aa80707d28033b58965a84f7cf3b21e83665759f95.deb
+Size: 6618
+MD5sum: 968e73a3659f79e28830db6324ac5241
+SHA1: 5b75cc3702370cdcda73aa9e71ab8dd45290da7f
+SHA256: d08b2744ce107c8132b283aa80707d28033b58965a84f7cf3b21e83665759f95
+SHA512: e9b508eb4fe2bae950290a3824b07eae1576b9892a1bd8fa92f84fa71f9803eae1e99d116b51017112f2d6df91f26628359047b9b27456ded462392fdd9867e7
+Description: 31/33版本去广告的友好版本。（只针对这俩版本）
+Name: Purifyads
+Author: null
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.RestoreFont
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: 插件配置
+Maintainer: 灰灰
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/iphoneos-arm64/com.restorefont_1.0_iphoneos-arm64_20260916-0805_af95d345c90d40a9feb5c6b434b0a2b66cd31bf2aa868d6ae8c10b0a5b13a96b.deb
+Size: 2592
+MD5sum: b1a9a9bb165f57bea47f665d0a79aa40
+SHA1: c6de4a3e51ae894feff1a58faad6f500cdad5c89
+SHA256: af95d345c90d40a9feb5c6b434b0a2b66cd31bf2aa868d6ae8c10b0a5b13a96b
+SHA512: 44d5058592d5e37f45259c6c6d11bb8057e0403abe086c02fd148ebf70d931714562169865d604e10ed18c7eb7e2cf585a01353c5f1435d61367ede415869a7c
+Description: 
+  * 下载后脚本文件在/var/mobile/Documents/RestoreFont
+  * 先挂载字体目录/System/Library/Fonts
+  * 再把RestoreFont脚本移动到需要替换的字体目录里点运行
+  * 最后重启用户空间即可
+Name: 字体一键替换
+Author: 灰灰
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+
+Package: com.RestoreFont
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: 插件配置
+Maintainer: 灰灰
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/iphoneos-arm64e/com.restorefont_1.0_iphoneos-arm64e_20260916-0805_e1ad934f7677999f4d8d394587b33e166774ff24996e17af4dc8dbaf47b9c106.deb
+Size: 3316
+MD5sum: df513f2d33244ca9be5c4cd1bd94e7be
+SHA1: 75ced04a8750a27a6a8e48aec8b7c82fba7407af
+SHA256: e1ad934f7677999f4d8d394587b33e166774ff24996e17af4dc8dbaf47b9c106
+SHA512: a45c8a1b320d46757e98d7768dc224cfb341056776abb2474e9c0add15f7ff34e23ee7c23e3f0670bb9871629e06ecd2f199cc551afa7eed1a884322716a55dd
+Description: 
+  * 下载后脚本文件在/var/mobile/Documents/RestoreFont
+  * 先挂载字体目录/System/Library/Fonts
+  * 再把RestoreFont脚本移动到需要替换的字体目录里点运行
+  * 最后重启用户空间即可
+Name: 字体一键替换
+Author: 灰灰
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+
+Package: com.anthopak.appaze3
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Section: Tweaks
+Maintainer: AnthoPak <anthopakdev@gmail.com>
+Installed-Size: 1802
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware (>= 15.0)
+Conflicts: com.anthopak.appaze, com.anthopak.appaze2
+Filename: ./debs/iphoneos-arm64/com.anthopak.appaze3_1.0.1_iphoneos-arm64_20260916-0805_3019520fdf3a857870d07dd6f6e5d2aa9e0b6fe0eb10062e17d81056c977c944.deb
+Size: 868436
+MD5sum: 65f8c734c55b7a77e6ad917db42c0087
+SHA1: c29e65e1273ef146dcee6f35f91e3d1e4ff5cd3c
+SHA256: 3019520fdf3a857870d07dd6f6e5d2aa9e0b6fe0eb10062e17d81056c977c944
+SHA512: 4163dc8bb2746cd8654406b961d92ef04d8989458fa2fac229c1a791593b9c277bd86e21315de103412b396f6c3b86e6aca98bf994d6d368aee04ae21f268796
+Description: 正版砸壳，在干净友好的用户界面中，为每个应用程序自定义多达30个设置，易于访问！
+Author: AnthoPak <anthopakdev@gmail.com>
+Name: Appaze 3
+Icon: https://img.chariz.cloud/icon/appaze3/icon@3x.png
+
+Package: com.anthopak.appaze3
+Architecture: iphoneos-arm64e
+Version: 1.0.1
+Section: Tweaks
+Maintainer: AnthoPak <anthopakdev@gmail.com>
+Installed-Size: 1802
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware (>= 15.0)
+Conflicts: com.anthopak.appaze, com.anthopak.appaze2
+Filename: ./debs/iphoneos-arm64e/com.anthopak.appaze3_1.0.1_iphoneos-arm64e_20260916-0805_1ac1ddcb38998adc520d4772a850b58eb55717e9fdeabe29f48c166bb857006b.deb
+Size: 942272
+MD5sum: 783c9cda9f4200cd317f53416b12befe
+SHA1: f003cccd9795387be665c12a996e1e1b205525c9
+SHA256: 1ac1ddcb38998adc520d4772a850b58eb55717e9fdeabe29f48c166bb857006b
+SHA512: 75bd09011b720b39895312603ab0bca4bc89d95ba9c117a55aa008ba0b81e9503b2ea6c1376ec0f686de0bc4ab307a8b17debf5bf449ed5e57156525e33f6e39
+Description: 正版砸壳，在干净友好的用户界面中，为每个应用程序自定义多达30个设置，易于访问！
+Author: AnthoPak <anthopakdev@gmail.com>
+Name: Appaze 3
+Icon: https://img.chariz.cloud/icon/appaze3/icon@3x.png
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64
+Version: 1.4.6
+Section: 插件
+Maintainer: be-huge
+Installed-Size: 2544
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.floating-view_1.4.6_iphoneos-arm64_20260916-0805_7b1d4ca6838caddf1dc202c22aa164acf44441bca57d27b03719ae47872e2773.deb
+Size: 505380
+MD5sum: 0e014733089a32ccace989aebe796ea2
+SHA1: e9602aacbc1cca93adf028eed92d31687aaff980
+SHA256: 7b1d4ca6838caddf1dc202c22aa164acf44441bca57d27b03719ae47872e2773
+SHA512: 9c64047377ed3fd6a1a352ca0c521c028c7e48863f415ee780fd83640163de52a774fe1a15607226b458ad0cbdb7e52270ee4cf4fdf159977388babc6eab24e8
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64
+Version: 1.4.6-2
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2540
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.floating-view_1.4.6-2_iphoneos-arm64_20260916-0805_360d96686af47b97788e6a4b23da0c7f617a2fdd5b690ac85dcbb70bf00b008c.deb
+Size: 503428
+MD5sum: 9951ad43c1e8f75d7f47748256b07545
+SHA1: 4a23f347570b7f3e3606894e0e78f294d821eb73
+SHA256: 360d96686af47b97788e6a4b23da0c7f617a2fdd5b690ac85dcbb70bf00b008c
+SHA512: a5df04301225b557755f57676814eb11c441713e54f78e0ba62d7725d5eb4b0d2f6277a927246bcfd6a2371b6eaf8fc1bbd40c3ad4e491dfedf02ad2e062b855
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64
+Version: 1.4.7
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2532
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.floating-view_1.4.7_iphoneos-arm64_20260916-0805_9a59bbc25a93e4334b143cbb04632349f64ea16d9c7be159cae475caa8f37282.deb
+Size: 504396
+MD5sum: 5bd36a781d8835d600ca1a6c6fa3f946
+SHA1: f0264383db74224956f751b9c3d46f0419b88e92
+SHA256: 9a59bbc25a93e4334b143cbb04632349f64ea16d9c7be159cae475caa8f37282
+SHA512: 5b25b90454df9feaa740548614fa5e2b2f700d1c6460eef782375abecc4040205b5539e687a3e86579707efba743cc2f4ce3a3e7fd4c67b0e1a00b9d2ce5ef7e
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64
+Version: 1.4.7-1
+Section: 插件
+Maintainer: be-huge
+Installed-Size: 2532
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.floating-view_1.4.7-1_iphoneos-arm64_20260916-0805_741fdcab10d25e32bda8c9df7e7ddb56168f0465c83da3d9ede5aa9e0c81c418.deb
+Size: 516160
+MD5sum: 6c276931972f4f555fcae51a41fb103c
+SHA1: 7f64459804ae6342ef9ba870c2d94e781b478907
+SHA256: 741fdcab10d25e32bda8c9df7e7ddb56168f0465c83da3d9ede5aa9e0c81c418
+SHA512: f926fbaf96d9302725260b81ff66f08c13dfe7fbe9b576ad5b6be6c741872c45753523b583dfae9d8238a44478e85ee744a87cb41e032baf9bc3d075d5aef24e
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64
+Version: 1.4.8
+Section: 插件
+Maintainer: be-huge
+Installed-Size: 2532
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.floating-view_1.4.8_iphoneos-arm64_20260916-0805_07018902f7e89dc0894c4f782d9bdef0885db9512359d5a9cc05634e4eb8b3f8.deb
+Size: 517136
+MD5sum: 8b342c629663b3a436949e57218b5cb0
+SHA1: 44826168b8c42be4def7ff04ea20ccb7e2907981
+SHA256: 07018902f7e89dc0894c4f782d9bdef0885db9512359d5a9cc05634e4eb8b3f8
+SHA512: 21dd41634d3ad2f6662b1b5df8c156a6b10cd8f683dbe671d90eb0e624c471d234d28b96d9349e5be5e7a718eafb42ea0a4dc6385ef4fca0f53dacaf67c8cb24
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64
+Version: 1.4.8-1
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2532
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.floating-view_1.4.8-1_iphoneos-arm64_20260916-0805_325d58539590f8a5e0a79029ca55b796104497e846fdeee75a20488913c73110.deb
+Size: 520600
+MD5sum: 402a9e18898c7a5e45e7404acb6b62aa
+SHA1: c6c98574bbbef7af6bfe5a6394c2ab048860d276
+SHA256: 325d58539590f8a5e0a79029ca55b796104497e846fdeee75a20488913c73110
+SHA512: ab95c313a576ae5faed7fca8045fe46b9dfb335a29b899d4d407933b72c10314b4a90d55949a38b7132a45c46cf0bc0be32767baee05377ca072a50b5f009cc9
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64
+Version: 1.4.8-2
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2532
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.floating-view_1.4.8-2_iphoneos-arm64_20260916-0805_9cf92e4008d0545cda323515160e2c56b0a75f700ef9957e145f1e871f758f44.deb
+Size: 520344
+MD5sum: d7536411f6d514c5837bf74150774e74
+SHA1: c0d5126f63616669e6eb694ccbd2732a78492615
+SHA256: 9cf92e4008d0545cda323515160e2c56b0a75f700ef9957e145f1e871f758f44
+SHA512: 2065151973db16676ea6a846504dd0beb98b42266cce04f9b408921e01b4fb1bb46ae2ed0f4fa24ee7914e5980ef6c817c8fd3e7eb2e9f8fa19950f43b3fd697
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64
+Version: 1.4.8-3
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2532
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.floating-view_1.4.8-3_iphoneos-arm64_20260916-0805_355438f84f19df1488c8bbb3c7011e1186a4fae43f925e1edf95b09987e190e0.deb
+Size: 521476
+MD5sum: b44687b14b562811fd58bbf26ed1fa6b
+SHA1: e08a60d278647070c27a52b74f14299d830f605c
+SHA256: 355438f84f19df1488c8bbb3c7011e1186a4fae43f925e1edf95b09987e190e0
+SHA512: 64e9550b4dbe19f07ede63b834a88c4a4b68f05abfa675dfca8fe2bd53fcae656456bec974d4af9b6554e516a6c9008f3dfeb21225850c3c1a7bdb14e609941e
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64
+Version: 1.4.8-4
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2532
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.floating-view_1.4.8-4_iphoneos-arm64_20260916-0805_eab52dc14f3daa12b05466476e3036fc5f4bab21cc532cc9e4ab62324e99a601.deb
+Size: 520972
+MD5sum: 494160ed273135d9bc72cf45701c058d
+SHA1: 88aa70eee9066eca7dfe753bb15f837a3888282f
+SHA256: eab52dc14f3daa12b05466476e3036fc5f4bab21cc532cc9e4ab62324e99a601
+SHA512: 6ac2e8d3bcd3e18a804194282889161f7181539050a4f30398fafeee3b13e8568a3e4d1143d61164a1df7477f7596f2d3ac21c34dff96a3cd49a46ad8c25dbb6
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64
+Version: 1.4.8-5
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2532
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.floating-view_1.4.8-5_iphoneos-arm64_20260916-0805_0220bb2132748ba0e14f0fc3e2b4cc5ecf1ce81bfcf5fe50cc33236c81585cef.deb
+Size: 520744
+MD5sum: 4406a95a8857a0f149a7aae89cf355c4
+SHA1: 06ff24a0f7dfdae57691287211d898b58076cb8d
+SHA256: 0220bb2132748ba0e14f0fc3e2b4cc5ecf1ce81bfcf5fe50cc33236c81585cef
+SHA512: 5ec1cae8806d208de7b04a90e7cadab4e47a4be376eda8af9507e306b601d96bde73a00f85a20f143f4ab9e1a95b3c3cafdaf87ffbddbd01f7fb1ea2fba4b97f
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64
+Version: 1.4.8-6
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2532
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.floating-view_1.4.8-6_iphoneos-arm64_20260916-0805_c63b3d828102bf32671ab41e6b1a352f740a45df5d9b89684da2d7dbb0105618.deb
+Size: 520040
+MD5sum: 6173e2316b4ae194bcde0d730c8b98a7
+SHA1: 3271bd6b9b428755a55f292bed6ec9ea27b2582e
+SHA256: c63b3d828102bf32671ab41e6b1a352f740a45df5d9b89684da2d7dbb0105618
+SHA512: eb6e82b2ccf331576b00509ecd2db950a0b473c50862ecdfd45da5df0e2ff0e1c9bfacda61d785a7ff761a825ebf14476082e884b22b5f361ebd74776d799db9
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64
+Version: 1.4.8-7
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2532
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.floating-view_1.4.8-7_iphoneos-arm64_20260916-0805_9a4203003c3f8abdab56eadb4b1c5e13ad44825669474f29901bb5620f9569a7.deb
+Size: 522120
+MD5sum: 6df7e6b02daa5f22cd2f39c2d23691f5
+SHA1: 2d164c51f487cc9e9272283abd54b73b77e88fe5
+SHA256: 9a4203003c3f8abdab56eadb4b1c5e13ad44825669474f29901bb5620f9569a7
+SHA512: 6ea42e34d42efbcc54720ed59e56e6e97006de7b144cc7b11d2db41451dfd400284b4667347f41639c5959a99a150bae114ffa1fb150ae32cdffef47d4d58b7b
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64
+Version: 1.4.8-8
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2532
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.floating-view_1.4.8-8_iphoneos-arm64_20260916-0805_c3ec6f14ad52c075fe91137706a3cd64316c9c5dc3418bc0d0c8e712ed65f533.deb
+Size: 509096
+MD5sum: 67bd134cf461324163479c54de267668
+SHA1: ffd954c8887d74bf5f42a65993666573f490b43f
+SHA256: c3ec6f14ad52c075fe91137706a3cd64316c9c5dc3418bc0d0c8e712ed65f533
+SHA512: 922551054fad306daf6fb38d1e6833aefd35c18e3ef5147aec367055314d439e9029662fe57625cead14077c0c782eb40405a767abe50f580e45a3762bce5ff9
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64
+Version: 1.4.8-9
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2532
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.floating-view_1.4.8-9_iphoneos-arm64_20260916-0805_5b48c6efc0e0d280e29d1026ba86cb755e11e14fb43a5e26ab686e50443505fd.deb
+Size: 520056
+MD5sum: a4b353044ea537eafd14c66ba2e5e78b
+SHA1: 68aabbfd1d9a32832abbf99a94be212a4a3a8b02
+SHA256: 5b48c6efc0e0d280e29d1026ba86cb755e11e14fb43a5e26ab686e50443505fd
+SHA512: ebffa988b2850db5659d8a57cdfdbe793d3fe879721ebff0aee9bfb3c5c571f1114afaad49e1c5d20198c94f25fd41d8fbb4fc0cacdc39c0eb1922d1ebf4485b
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64
+Version: 1.4.9
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2532
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.floating-view_1.4.9_iphoneos-arm64_20260916-0805_066df1f57a8cda08164b59fa70f5327f24b876cb292089bd8994bee473af6659.deb
+Size: 520888
+MD5sum: 8c605288d85abe6a0cdda8415b8a9c2c
+SHA1: 1b298152a91e909625d844b192415f7caa8b257e
+SHA256: 066df1f57a8cda08164b59fa70f5327f24b876cb292089bd8994bee473af6659
+SHA512: 455047d801bb826b6568f36d02ee273849dab253f8d2fe2f81edade26eeb6667ffbd2568ae0cce2f19d61be92e4f354401077e9056df0100fa88b4dbf87e2f4f
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64
+Version: 1.4.9-1
+Section: 插件
+Maintainer: be-huge
+Installed-Size: 2532
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.floating-view_1.4.9-1_iphoneos-arm64_20260916-0805_eaf8b891b59e946fb6227349811f0259b08664dc968157992b6c5d26a4b1c061.deb
+Size: 521468
+MD5sum: 7a3db314d871bbbad11c95ce14d21ccd
+SHA1: a13677ae936fab6dae7df4424ed6da24e8f52380
+SHA256: eaf8b891b59e946fb6227349811f0259b08664dc968157992b6c5d26a4b1c061
+SHA512: b230a3084ed3c551562baf92be954439d6d07b932656b178a9b9b3a159239bd6d461f322238650c3bb77d7be8c5b53ff2d6e4a035dcfd16cc69a4647f07e67b5
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64
+Version: 1.4.9-2
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2532
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.floating-view_1.4.9-2_iphoneos-arm64_20260916-0805_c9e99514eeb7f1ad96fdf12060aaed10b719f19cae9fa1abff8ffaab2e614c16.deb
+Size: 523364
+MD5sum: 080bed77b274e76723b0c3b5a202acfd
+SHA1: cf2c3df6efc3aae33d81c4f06878e0d03e171d0a
+SHA256: c9e99514eeb7f1ad96fdf12060aaed10b719f19cae9fa1abff8ffaab2e614c16
+SHA512: c30c779b24e4e6ea3c9ca20034941f6894dd60de0149e693ca1d70ba3b3c5f44ab59e08ed8a36ba6b8db3248a577690e6336fea243181173086e0a4b4607473c
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64
+Version: 1.4.9-3
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2532
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.floating-view_1.4.9-3_iphoneos-arm64_20260916-0805_80af0f9871caaacf1cefcf14b52430e131a5b7779b61a753be059d21a68d1a2d.deb
+Size: 524420
+MD5sum: 229dc3dd236e356bb8a0348dee038fa9
+SHA1: 834af32ef1b33fcc0a90ed2c833331bcb5428ee6
+SHA256: 80af0f9871caaacf1cefcf14b52430e131a5b7779b61a753be059d21a68d1a2d
+SHA512: 4c62d721bcf13da72cf4fc567e16f81d0de6de7eff75b84bca47d23854996e4883522b1c41ec68c046add9d96acc715a215fb44a2743dc840a001b8b065b9767
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64
+Version: 1.4.9-4
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2532
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.floating-view_1.4.9-4_iphoneos-arm64_20260916-0805_f619b168cf8685d2f7a8480961f0d24494d1e4f0c7bfdb9418f709b52be4f2cf.deb
+Size: 526244
+MD5sum: 3ce488561b153880d56cce912f61033b
+SHA1: 1ca89678c3027f90fcb0d92c84bf37ef60400384
+SHA256: f619b168cf8685d2f7a8480961f0d24494d1e4f0c7bfdb9418f709b52be4f2cf
+SHA512: 57003d67e439b4fea73f998053d682847d2db943e1a62b1946de5f46b0a458821fc51e1f493972244b5a225c417bce7f46b59650abce6df6b14625096e021ed3
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64
+Version: 1.4.9-5
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2532
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.floating-view_1.4.9-5_iphoneos-arm64_20260916-0805_0d462a6aa84719a17d02014e8a2e69ff24fd301e62e8b61e8a9e77b4d7231105.deb
+Size: 526680
+MD5sum: ae73c65f75f85af669774b848feba2a6
+SHA1: 5897cf04d6fe51d7e662f5480a2c0c3c6b2185da
+SHA256: 0d462a6aa84719a17d02014e8a2e69ff24fd301e62e8b61e8a9e77b4d7231105
+SHA512: f00224b64cfb573fb369389172e8d8e38ef380acd5e6ead3a018fdfb198c6f34ae9a98422d875223709969a608d81b5baf798101dd13f6c4400334c18f1c99e5
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+SileoDepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64
+Version: 1.4.9-6
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2660
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.floating-view_1.4.9-6_iphoneos-arm64_20260916-0805_952827efe4587002ece3916b9be041cd73ad6113a33148efae26618401a914e3.deb
+Size: 527128
+MD5sum: dfac42a31e172c3f91ac64c87d4c2cc4
+SHA1: 1e2e0b36eb3b4ad849464bb309c96d10aebe9ff9
+SHA256: 952827efe4587002ece3916b9be041cd73ad6113a33148efae26618401a914e3
+SHA512: 16e404fb9b10bda6a6ac76d9c85dac0c2f84ff51924e4a84e0a9e845b6e8093d2cdfd74f726f251ab04ed656646a9eacee29cf524a1f14b5e7e7c8875ebb3154
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+SileoDepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64
+Version: 1.4.9-7
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2692
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.floating-view_1.4.9-7_iphoneos-arm64_20260916-0805_6a7315e229ee029159e0aa6f61f587fc5473e9d212838e42ba90dad0fffaa326.deb
+Size: 527552
+MD5sum: 30c6017f58c9399958937e0f8286be77
+SHA1: ba303d2f18e00758832c0b89ae37964cb27cb958
+SHA256: 6a7315e229ee029159e0aa6f61f587fc5473e9d212838e42ba90dad0fffaa326
+SHA512: 92937d2e0ef6f664e480cc03520943debe6e576620bfbd95bc06867eb94f1c962d2b1de5c417bd6715182133fb91b0bde54b8bd0030dd715782e22ae57d706dd
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+SileoDepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64
+Version: 1.5.0
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2692
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.floating-view_1.5.0_iphoneos-arm64_20260916-0805_bc838efcf86f1018755cadc9e02c377b7079cd08fc1275ef1673acc402289a8d.deb
+Size: 571468
+MD5sum: df38149c6629da98235e966a3b14a609
+SHA1: 7b5333d7b9878ebc87fddee4b752471fa194ddfe
+SHA256: bc838efcf86f1018755cadc9e02c377b7079cd08fc1275ef1673acc402289a8d
+SHA512: e10b893ad9a97b245d3f4ec0080d4a65565986fa9f14005f20b75dd62eb649e10456edaca1389af2717ec71ab4fb1cbeaff34db4589a6e3e9903d19127d2dd96
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+SileoDepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64
+Version: 1.5.0-1
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2692
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.floating-view_1.5.0-1_iphoneos-arm64_20260916-0805_4cb52face79d0fb3a3aa91da1531927fd6340cf2a7272603630f7bfbc83b75a6.deb
+Size: 573096
+MD5sum: 8eebe00487a859a6ffdfc3568b239991
+SHA1: 050bd038fa2b8d9abd8b157d58c1ee79d553f26a
+SHA256: 4cb52face79d0fb3a3aa91da1531927fd6340cf2a7272603630f7bfbc83b75a6
+SHA512: 6a3ebcea6145ae0699e64765345ca85a22657fe4ed37c0db456df7441bd26364fd831178630b924acc57763611113801765837dd2cb2a59f539d84514aaa5c31
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+SileoDepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64
+Version: 1.5.0-10
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2692
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.floating-view_1.5.0-10_iphoneos-arm64_20260916-0805_31daa36e5bd711c3db5578da012a6b493e27877397b57c8e8a3cee7000458738.deb
+Size: 539624
+MD5sum: 6d2b97259b3c4d7b5f03f6a546d805b9
+SHA1: 56779a95732efdc45fd0136233d03191ebdd3ae8
+SHA256: 31daa36e5bd711c3db5578da012a6b493e27877397b57c8e8a3cee7000458738
+SHA512: 7cffbad1c641f2fd2f05b4d02668de4dec57d4d13b9f25fd8058ccab15deb1061ab715732eefe83716a5671ca29cb461676f39ab672de16dd8faa2edecc04e55
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+SileoDepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64
+Version: 1.5.0-11
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2692
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.floating-view_1.5.0-11_iphoneos-arm64_20260916-0805_4eb542e4118fa507e087026ec8a7ac3ed65db7facdb6f6f9c40b8b24bc7a4e9d.deb
+Size: 542008
+MD5sum: d78799ef6aee9d03ca0d5c4d16163a29
+SHA1: 36ffd4e2fde36e578c1ebf053ad2f1e1dd89a0ea
+SHA256: 4eb542e4118fa507e087026ec8a7ac3ed65db7facdb6f6f9c40b8b24bc7a4e9d
+SHA512: e261a17fd63afdbd44901bc819b5a4a5300d02d1c08402849832ddd3ac550a4aea8817f570891a8c0959e2ba24c2daaa2cb2ebf2b3329a357f8e26cba31bc810
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+SileoDepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64
+Version: 1.5.0-12
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2692
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.floating-view_1.5.0-12_iphoneos-arm64_20260916-0805_34916c6caaf25ae3da71534824ff6ed94b3f39dda3d92955ff48eb5157a77e6d.deb
+Size: 541976
+MD5sum: 4379fa5bf3e7de8c83113e890ca7d89f
+SHA1: 8847a18773f4ddc7e5eb2f06209b12735f467dd3
+SHA256: 34916c6caaf25ae3da71534824ff6ed94b3f39dda3d92955ff48eb5157a77e6d
+SHA512: f05de055f9b76747d7b9504d1da9f0d8091059f21a40a20785d9dd9dcc122adc270d9ae4eca1ec8b99fd6b387b783d64e30be66aaa8c49a873908407564489bf
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+SileoDepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64
+Version: 1.5.0-2
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2692
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.floating-view_1.5.0-2_iphoneos-arm64_20260916-0805_7073786fdefc1cc44d2dd2e3ae0807693e5fdd3a7d70b461841907c185011a8b.deb
+Size: 572272
+MD5sum: 7081cb9c74ca601fefa99fdee1f4ddb0
+SHA1: cd1df19719a7c45cd2c8e0685e8f0818c35326b8
+SHA256: 7073786fdefc1cc44d2dd2e3ae0807693e5fdd3a7d70b461841907c185011a8b
+SHA512: 25cb3032f295c52208fa93a6e2b8a9222db7dba9b0ba2034f45b5724584faa987ea0da32fde25fc71745a89358d791766ac1d78dffa9d29ed72107436fcef637
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+SileoDepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64
+Version: 1.5.0-3
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2692
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.floating-view_1.5.0-3_iphoneos-arm64_20260916-0805_578780ae7887751a903c407979336cffb94e2047816c7a851ef0acc3b5e971bd.deb
+Size: 573852
+MD5sum: 0c397fa825751a6862d625c8e2832606
+SHA1: c7648c1f9f1a49090f72423ad9723f9b55b638ab
+SHA256: 578780ae7887751a903c407979336cffb94e2047816c7a851ef0acc3b5e971bd
+SHA512: b6e758ed5372f27b4b1c0b1db8942c35012ce6b55b4a45a8b30b5e022fdc363e1420441678dc9924320fa0488ccd2a740dd0e07d617254961e4552ec4494d63b
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+SileoDepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64
+Version: 1.5.0-4
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2692
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.floating-view_1.5.0-4_iphoneos-arm64_20260916-0805_1ba9c09a44dc125ebcbac90a4b68bc7163977bfacd2976687df8040fe2cef8ce.deb
+Size: 575068
+MD5sum: 11171196a4790898602f5bbdde52852d
+SHA1: 538470e0f05ed237c526a39ffb29c880fd952d8c
+SHA256: 1ba9c09a44dc125ebcbac90a4b68bc7163977bfacd2976687df8040fe2cef8ce
+SHA512: 8a26e0d42c20ed3cebaac5a8612ecfa9527bbf3ec729d048bc979ccd54e3547e9ab5a46b8ecbd91ca817a2ff6bda12569b8bd3b5e7087e4ae2fb0c19bc577593
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+SileoDepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64
+Version: 1.5.0-5
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2692
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.floating-view_1.5.0-5_iphoneos-arm64_20260916-0805_02f25b2292282ae2ae920634415cbd68761a8cee92035f6d7a9b625c3845d843.deb
+Size: 574416
+MD5sum: 314ea5e481da651a8adc167ad70a7971
+SHA1: 11a0450354247b3124168713e3766dcbb547df73
+SHA256: 02f25b2292282ae2ae920634415cbd68761a8cee92035f6d7a9b625c3845d843
+SHA512: 83dfdd2df080e731c74bfaa4d5f0c33ff09b5fafa4fdb749f87bc8c0e01295e461dff09d27b9f98bdbc4ec4e6fa999485edbc522767bd7a1ac8d06567049c60b
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+SileoDepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64
+Version: 1.5.0-6
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2692
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.floating-view_1.5.0-6_iphoneos-arm64_20260916-0805_e0e871454e0f5635784e5273b397e0b0a5cc995146eea725148cba7ee26d1b7c.deb
+Size: 535164
+MD5sum: 2c31c6d0435136728f78d6a3c8f8dbf4
+SHA1: abda60fc0c10627772c5b6aff37000453d481226
+SHA256: e0e871454e0f5635784e5273b397e0b0a5cc995146eea725148cba7ee26d1b7c
+SHA512: a6855679eb3981272d39f8ed513db856d36e1b90a054daca36a451ecd8c0eede3945e93e2852b3fb362a1ed3524a30e09e555c2d88610b246e27a255c9e9e288
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+SileoDepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64
+Version: 1.5.0-7
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2692
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.floating-view_1.5.0-7_iphoneos-arm64_20260916-0805_64add04b7efb2218f7f7dbe033e26b4ed7c009f5be730b09ce6ad242461c1e73.deb
+Size: 539136
+MD5sum: 541f8f1da3561af74c1f8d08317cc51a
+SHA1: 6df1efc4781434e64ba7d343fde304933a9c7156
+SHA256: 64add04b7efb2218f7f7dbe033e26b4ed7c009f5be730b09ce6ad242461c1e73
+SHA512: 5e4dde5e4fcffecb748ad62090b34851160cfb8a0068b5c5629dcdbda7df9055843673165c1213a7e6729ee350bc193f2b86042248ced9b6466c2a905537c848
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+SileoDepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64
+Version: 1.5.0-8
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2692
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.floating-view_1.5.0-8_iphoneos-arm64_20260916-0805_065725d1f96f6191198ba322a08ffa5bbf7ed6c2cfe798a21395ad00fdd4f312.deb
+Size: 536988
+MD5sum: f26627e4a1806daf89419eb387e0e2e8
+SHA1: a908d0d591d2d688d2ad353efb6a8442e187eda7
+SHA256: 065725d1f96f6191198ba322a08ffa5bbf7ed6c2cfe798a21395ad00fdd4f312
+SHA512: 6af8ac1006edaf1a8f793993d9323ea0301b38e1f24a82e24583e42eaa4328d4874aed80c4810b59b5047ba77e1de0c02a4f310c200d989d358b3eb14fb5677f
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+SileoDepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64
+Version: 1.5.0-9
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2692
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.floating-view_1.5.0-9_iphoneos-arm64_20260916-0805_7b3fca18d219166f80be5cbcf069aec59beaf11d5a6e397799a5a7ab0d9f7b14.deb
+Size: 542620
+MD5sum: 45603ca3c7ee664317903f94fc329659
+SHA1: 52f499d6beb8b98c104e04626accd04b48b883ed
+SHA256: 7b3fca18d219166f80be5cbcf069aec59beaf11d5a6e397799a5a7ab0d9f7b14
+SHA512: a2c5c7d55f3c661e4ab5e90496e1bb9cd834c5ad8411a033aee04171e7aa26880ebf043d41ed270284c24abba4c78d62c7ab98ab75799c2a70048c8684001a72
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+SileoDepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64
+Version: 1.5.1
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2692
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.floating-view_1.5.1_iphoneos-arm64_20260916-0805_6de22239a873d0d84f2cadd55cd5d65c809cd32d26cdff7bda48cac1bcfe7325.deb
+Size: 544480
+MD5sum: ec107f7c004deec0a18cd9b225c7d48e
+SHA1: 5e537497e4eb09a5f073145a8b74609cb6e4eee7
+SHA256: 6de22239a873d0d84f2cadd55cd5d65c809cd32d26cdff7bda48cac1bcfe7325
+SHA512: 5c6c0b3e7f6d493ca5ee21088f1b04cbd2b7314abc559d0328bb3d39ae2ee8cb1fd48f8f5a10813d795968a15c3b9847f7bc3d0ef613e65c4120ab725be02673
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+SileoDepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64
+Version: 1.5.1-1
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2692
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.floating-view_1.5.1-1_iphoneos-arm64_20260916-0805_1228e5557bd0062f36b0ad68be2612cff796273e0f44e54a94658188624e9c48.deb
+Size: 540456
+MD5sum: 8c71e10b8690ed7f19bfdcf957939600
+SHA1: e72852c86c18b6bc1eb866805c71e6b4db8a2626
+SHA256: 1228e5557bd0062f36b0ad68be2612cff796273e0f44e54a94658188624e9c48
+SHA512: c30362dce7bac5facece6249b31e49efff90294d5ab93118af10513a9d81326bb177c5836c3318045c30df4d6d488e5a95da82e3bbda7bfadd7e57afc9e040af
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+SileoDepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64
+Version: 1.5.2
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2692
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.floating-view_1.5.2_iphoneos-arm64_20260916-0805_8c13953bfc46f5d8b4421d7cd4fff3c23977d5c1ebe6ec8fba4e8f58953bd2e0.deb
+Size: 546388
+MD5sum: af26af4756f1e7bfc425b01951b75978
+SHA1: 892c5a6928743d18777d3073c8f50115f6408a91
+SHA256: 8c13953bfc46f5d8b4421d7cd4fff3c23977d5c1ebe6ec8fba4e8f58953bd2e0
+SHA512: 92a58e6c96ff785e4d9376c5af5cb69305a54b697f97078f34f1fd4bd70d023b71cfdf2cfb7a185d6712a1209130fa6739fd68c887cfbc703ea64002b47890ce
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+SileoDepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64
+Version: 1.5.2-1
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2692
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.floating-view_1.5.2-1_iphoneos-arm64_20260916-0805_978a0b91c9a6af289b10e2643ea5ade2497c55b49eb7bde7b4c431a46cbbb094.deb
+Size: 549048
+MD5sum: 8a67d08ec56d1ae6a7146a21fa3f24c4
+SHA1: 796637e5bb03b554757747281f760dce6366341b
+SHA256: 978a0b91c9a6af289b10e2643ea5ade2497c55b49eb7bde7b4c431a46cbbb094
+SHA512: 1aa30a0c57b2b0cb0afbd53fc70d6805070d2babcbf8e95155f2f2529394985ed97847db9117b35a67e6ed31d39182351a5da8bd61fc72e0841f631b6c4b1825
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+SileoDepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64
+Version: 1.5.2-2
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2692
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.floating-view_1.5.2-2_iphoneos-arm64_20260916-0805_1bad4990c6c0e612f3d4fb30a7e2c26c9f51fc715d2fc285e85d0cf963a70ab8.deb
+Size: 552848
+MD5sum: e1e6984c8d3f12764690383cf543f929
+SHA1: 7f817b14723bf6c2239b29e70d1180faefd27d16
+SHA256: 1bad4990c6c0e612f3d4fb30a7e2c26c9f51fc715d2fc285e85d0cf963a70ab8
+SHA512: f73947fa006e3d6fb55be5b8206614187b6beae3efdd958ccdd0af9637588e32d15b9f1bc9db39b2b6e3eceaddfd8b1679907c1e9cf333c6051d1fb1876a9e3f
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+SileoDepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64
+Version: 1.5.2-3
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2692
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.floating-view_1.5.2-3_iphoneos-arm64_20260916-0805_bb77f6122e11d55eb645a6579cf61307d8d8e1b862caa82be5507328911a3ac1.deb
+Size: 567184
+MD5sum: 9ef0210bf4008de8462bcc7cd2e17a48
+SHA1: 51fb0ff023c661443d918768077d423eced799fe
+SHA256: bb77f6122e11d55eb645a6579cf61307d8d8e1b862caa82be5507328911a3ac1
+SHA512: 357355c778fe30f904cc879aff9ab6bae216da736bcf12dedcf2004d39841d7a765b4a98434ef92984c81ba3343bd119054dccadfc32a29faff9e5c1e27543b2
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+SileoDepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64
+Version: 1.5.2-4
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2692
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.floating-view_1.5.2-4_iphoneos-arm64_20260916-0805_ff02de83e44ffdf26ef7dc1ccc8508ff2bbaaeef5d50673482ec00f14f4381cf.deb
+Size: 568544
+MD5sum: 87a8a4e45a5f95a63529bac41e28dfb2
+SHA1: 0f40cccb8bedd8f37166dde34e7cafa0f9fbd9f4
+SHA256: ff02de83e44ffdf26ef7dc1ccc8508ff2bbaaeef5d50673482ec00f14f4381cf
+SHA512: 80f30b7bcdae8f216da620323130a6562ef66eec5e2b2b97cb033fe94810776f42a3b2726fb836384df4ed009b8d93abcda20795e290119c071af77ec32d1968
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+SileoDepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64
+Version: 1.5.2-5
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2692
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.floating-view_1.5.2-5_iphoneos-arm64_20260916-0805_b490cc694b5bcbfb6948ff6ebf62e35575abc8885e39cc337d6f04c3bd6395a0.deb
+Size: 568696
+MD5sum: d2ecc7d0c452eb49a6778ee117cb8792
+SHA1: 320fb9a120134e4739ff57001f2ed77d16e38f95
+SHA256: b490cc694b5bcbfb6948ff6ebf62e35575abc8885e39cc337d6f04c3bd6395a0
+SHA512: 8f34fdb5245775489b4eaf60e1f07f8dbff9b6d90b9c21c9952d97906dc1255f0b8d3a18e58ea3955cebaed399b81354d4392debb774e77d8a581f0389459f26
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+SileoDepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64
+Version: 1.5.2-6
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2692
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.floating-view_1.5.2-6_iphoneos-arm64_20260916-0805_fc300932b81d9b30601dfcff80f64686c6896560581400c8abd719dca8ee6113.deb
+Size: 575328
+MD5sum: fe6f92476e816605151104f714b2f6f7
+SHA1: 7a38181cb5072ef102ad0d5707c9d5daaa7328d3
+SHA256: fc300932b81d9b30601dfcff80f64686c6896560581400c8abd719dca8ee6113
+SHA512: de819f821d3f568dfa1b065bb1e4bc7bcd5e941986d88fe8d53847a88fb866cf0debbc2566e37551a4cd724b68f781c6926bc3a15e8b527e7428108f3a886396
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+SileoDepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64
+Version: 1.5.3
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2692
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.floating-view_1.5.3_iphoneos-arm64_20260916-0805_4dd6b5135857a6a4bba61ebcd7df3bfd5a83d7c5d15be8602e983995c98b1608.deb
+Size: 549644
+MD5sum: affd416fdc91bc2041a73b4b4db63b4d
+SHA1: a735084b2958325b948f507fafaf36c3e585d624
+SHA256: 4dd6b5135857a6a4bba61ebcd7df3bfd5a83d7c5d15be8602e983995c98b1608
+SHA512: 19a372c87fa6b1a95612569082f905139d390cc0b72bb6bb707f4a8dd75317364e54be3d5d2ac5554751bce627bda056f939d93c06166c2bd26123c029d794f0
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+SileoDepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64
+Version: 1.5.3-1
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2692
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.floating-view_1.5.3-1_iphoneos-arm64_20260916-0805_36a1ad551dcb915f8add3718368dc9c3516bedcb8a84015b2d194c3bcd4a1b8f.deb
+Size: 548824
+MD5sum: 6e4d817086881729ac68b30166e35f20
+SHA1: f60afaa95381e4edd4564471952aefd3c2a77459
+SHA256: 36a1ad551dcb915f8add3718368dc9c3516bedcb8a84015b2d194c3bcd4a1b8f
+SHA512: 95d383d370cb4fc7b13f824382272e26064c8421a473a8d42bbf763570e54801df81069d2046b6e9008b63d7b85c478c066322f4c695b9b65db50db8085a6347
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+SileoDepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64
+Version: 1.5.3-10
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2692
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.floating-view_1.5.3-10_iphoneos-arm64_20260916-0805_7c7c945ab7b4abb59c21607157d9ddbf0ecfc7823027a5029cec4b3b067c871a.deb
+Size: 566312
+MD5sum: 498889e3a518e846da85b69263d8a620
+SHA1: f8bb8e5ae72d8f7e96c7c8b9b2c58c6e9478f5e7
+SHA256: 7c7c945ab7b4abb59c21607157d9ddbf0ecfc7823027a5029cec4b3b067c871a
+SHA512: 7ea9ec07e5dec5986943903ee4dfadc8ce67d4bf97f506735b128d078bb657fb23bdef218e43a34ca8f754ab465dcc8053ea5c25a63d81665dbea4c89ae78ca5
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+SileoDepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64
+Version: 1.5.3-11
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2692
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.floating-view_1.5.3-11_iphoneos-arm64_20260916-0805_f5f3f41c3d8aecf73e308b72e951d679c3b951eb699d6f550d5e880d3f95dcc1.deb
+Size: 566456
+MD5sum: 34b06da3a43f486ce51cb1524ed11733
+SHA1: 00064a05746abf5421d62c3f438c4a59fceccf54
+SHA256: f5f3f41c3d8aecf73e308b72e951d679c3b951eb699d6f550d5e880d3f95dcc1
+SHA512: a17117c763fd5704751214171a7f85a92b88896ccf3f2df2834f203ae4fffdb183acbc9c87506218f796479d78a6ec09debabfff964c402ee5bd902e2f0deb74
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+SileoDepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64
+Version: 1.5.3-2
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2692
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.floating-view_1.5.3-2_iphoneos-arm64_20260916-0805_3e4651d0167c4ff1296283949ae4e1d1236b2715496956693d717cbe454ed52a.deb
+Size: 549512
+MD5sum: c5c252d0524768fcee5265db05f42a48
+SHA1: c0bb4f9d2185d846192c848bc6b39da52ca783be
+SHA256: 3e4651d0167c4ff1296283949ae4e1d1236b2715496956693d717cbe454ed52a
+SHA512: a41e268c35c37fae8dac57adee14d4392fd79d7f020b5b320f77d9a4ca0f86fcea7ab8e9446516517d3d1d0e67622a9d810fc4e4985da9693901f8f0d72d1bd5
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+SileoDepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64e
+Version: 1.4.6
+Section: 插件
+Maintainer: be-huge
+Installed-Size: 2544
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64e/com.be-huge.floating-view_1.4.6_iphoneos-arm64e_20260916-0805_90394ab7f2d36f5af281651e741e2486d8d765fa952726193fb0edf6ac27b63f.deb
+Size: 1270712
+MD5sum: 38a857ecd2c9e8c2313adda4e5a91ecb
+SHA1: 80a121b8747364a4f51eebb65466b871975bd623
+SHA256: 90394ab7f2d36f5af281651e741e2486d8d765fa952726193fb0edf6ac27b63f
+SHA512: 31cf69f0923c5da2144a6f001060c3fb7bf009671efa69903ccf905fe04ad27de93002947ffec7e3a37edb70c38e51d1ffa971345a668204b2546645991845e5
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64e
+Version: 1.4.6-2
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2540
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64e/com.be-huge.floating-view_1.4.6-2_iphoneos-arm64e_20260916-0805_4b074bb1ab25c5de7afa023cdb500cf0b7c6606fa57eb3bf48608f046da4f8e2.deb
+Size: 1260500
+MD5sum: 2d6a7332ac09a9e5a61c223b761d6ca2
+SHA1: 2902607e1c4434f91545451f01eef36ff6033ffb
+SHA256: 4b074bb1ab25c5de7afa023cdb500cf0b7c6606fa57eb3bf48608f046da4f8e2
+SHA512: 2c97e1f80109ff9f84dafee989944a51e5b3f5599c5e526fbcb74edcb6d13d0d0f1de1f2b1b68a8a899c7873c84c141df38f057873c79c13c6385cc5279c9479
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64e
+Version: 1.4.7
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2532
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64e/com.be-huge.floating-view_1.4.7_iphoneos-arm64e_20260916-0805_55ab461f8217784598473d141950939d7dcd63d83c9df4cf9030874509d827fa.deb
+Size: 1267516
+MD5sum: b7351b9ee1aecec8febe9b8648a89876
+SHA1: 7dd849b926ae4b2d84851be4c69f427c21eb2cad
+SHA256: 55ab461f8217784598473d141950939d7dcd63d83c9df4cf9030874509d827fa
+SHA512: 2b98821f7f46868299ce33dd49d15d924c7c1df0a9943d466f1f5c2aa8e2df55c7855ee4f407b9515f6ce3cf21ea6dd4eec05d3e0c36da326897855352e4022b
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64e
+Version: 1.4.7-1
+Section: 插件
+Maintainer: be-huge
+Installed-Size: 2532
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64e/com.be-huge.floating-view_1.4.7-1_iphoneos-arm64e_20260916-0805_1e57b09dc2c6bf96d2f31020bd816b87019f600e9e373d2fbe3299659aa1e2ae.deb
+Size: 1318902
+MD5sum: 665892f78b0e2b753fd12593f68292d0
+SHA1: aaa02601bed4cecf15b57cdd91466017419d88b8
+SHA256: 1e57b09dc2c6bf96d2f31020bd816b87019f600e9e373d2fbe3299659aa1e2ae
+SHA512: 1c2c8e44b6b3d31a5ef3147ed013def948905c1a832441e68547d455f26e06925ad515c3b89b777aa5b8295185ed567a95bbd9d8ac61c71087a8fb5653b98ee9
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64e
+Version: 1.4.8
+Section: 插件
+Maintainer: be-huge
+Installed-Size: 2532
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64e/com.be-huge.floating-view_1.4.8_iphoneos-arm64e_20260916-0805_64a506ae170364d4763e096ecad3be06d3ebe8b56a8dc0fdd5c096037a51b62c.deb
+Size: 1310392
+MD5sum: db77000b1c4429d0ce5f86616923a16f
+SHA1: 0be4803823e7b1a21767b001800331c33b4cdbec
+SHA256: 64a506ae170364d4763e096ecad3be06d3ebe8b56a8dc0fdd5c096037a51b62c
+SHA512: b540009526fca77eda40624ffb02bc933b4c12c64f550c9e404a79357d8394ac87b7ada4ac06223abe17b3e5ec537ac83cc05e01150e294d8e528a4ddda30f4b
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64e
+Version: 1.4.8-1
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2532
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64e/com.be-huge.floating-view_1.4.8-1_iphoneos-arm64e_20260916-0805_72a51e8186806593bab478a81ea493bf1297847234812474c07c79190844243e.deb
+Size: 1329582
+MD5sum: 340a506b91339b48140404803eca3ff9
+SHA1: 0a8a8003a1de68b2e3434d6ab8af8b25ef590f0d
+SHA256: 72a51e8186806593bab478a81ea493bf1297847234812474c07c79190844243e
+SHA512: 2690743957299f80a187f888470fb792da6b7c2ff0ab6430b7a0eb2b0db373dfb8e8e7df655b5de433fe9d4056006a1a8ac6568f513842ded378c63242880605
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64e
+Version: 1.4.8-2
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2532
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64e/com.be-huge.floating-view_1.4.8-2_iphoneos-arm64e_20260916-0805_a18a68717d8f1e3025d2231e40f37955b1e37c61bde07ab5a819ac344486b674.deb
+Size: 1330434
+MD5sum: 537423a3c862a6290ec2aef5a40461a9
+SHA1: 4e33e37b1df437d73224bc2255a5336673018b23
+SHA256: a18a68717d8f1e3025d2231e40f37955b1e37c61bde07ab5a819ac344486b674
+SHA512: 3459f5bf1e01aa10e00cb55c4fa7c39d013dc28e7a08547a9cc9e233cf355348f64c13329b7d6f8e0b14896b0240e0d52146cd19a5d59cfa6196f19c4cb5f368
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64e
+Version: 1.4.8-3
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2532
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64e/com.be-huge.floating-view_1.4.8-3_iphoneos-arm64e_20260916-0805_96b5dad38d452700a6a103a0a9fb57b6c4afacefd1bca459ed15783603139b1f.deb
+Size: 1335168
+MD5sum: fc2149cdbb9ab8d62effef6703d16128
+SHA1: 532022aa7484c4a24ef06895d98b6529209f793a
+SHA256: 96b5dad38d452700a6a103a0a9fb57b6c4afacefd1bca459ed15783603139b1f
+SHA512: 4a8eea93c8c76977335ac290f269e5d9e8341fc3d7bd5f65d2983b00d1d1c4e1eebcc408997ed239459e119ac4a2182d5990cb49a3802208e2232e31890388cc
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64e
+Version: 1.4.8-4
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2532
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64e/com.be-huge.floating-view_1.4.8-4_iphoneos-arm64e_20260916-0805_f1185f70f4b6b8a7c9dea514e50560cd04b579abd6c863caf87f6c59b287bf5f.deb
+Size: 1333166
+MD5sum: c1940b9d0e2d1b8349b9f0a9a159524a
+SHA1: f87108c03798af1a22e416a25c6a73e2cfef6f13
+SHA256: f1185f70f4b6b8a7c9dea514e50560cd04b579abd6c863caf87f6c59b287bf5f
+SHA512: 5aa19ed532f8c0afa3626e39a989fc08ce724305237c8b0fecbef97d62d879eec360be9c09a4d68d022943695ecb34e0c10eb70a97d23188ee3743e9327eba23
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64e
+Version: 1.4.8-5
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2532
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64e/com.be-huge.floating-view_1.4.8-5_iphoneos-arm64e_20260916-0805_986e90861703804083d789427db288472d4207d9fce6c881261bd04481d9685e.deb
+Size: 1331638
+MD5sum: 60f3df5154eb0d9778f0d121a710a1a2
+SHA1: c9fe7b7f757e5e47036203b7778d7dae12d837f4
+SHA256: 986e90861703804083d789427db288472d4207d9fce6c881261bd04481d9685e
+SHA512: cad7855c2ff7c00d3e66aef1fdb942c8b17d37adda3dc7d74082b9ac6759db9a30cc01603e9572cf3bd7c4881ae8a4d501d2ba17f7939ae1546b3e9504fa44d8
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64e
+Version: 1.4.8-6
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2532
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64e/com.be-huge.floating-view_1.4.8-6_iphoneos-arm64e_20260916-0805_bc28880f3448ef162530793f507010e7603f374e1f5ef7eb874b3357ef4460a3.deb
+Size: 1333964
+MD5sum: bdb48170154a31f53691667c255a61be
+SHA1: fbd02fcda7d98bfb2789e891804e5e94da70bd9f
+SHA256: bc28880f3448ef162530793f507010e7603f374e1f5ef7eb874b3357ef4460a3
+SHA512: e2a4d0a87f0ed8a230c0d05c3b44e16149eaed1b179d3801ce30825c5a79a6cb87cd4bb6f132654e2ca89268d2e72b62ae9796ec6543e77717ced24235b05185
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64e
+Version: 1.4.8-7
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2532
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64e/com.be-huge.floating-view_1.4.8-7_iphoneos-arm64e_20260916-0805_f8214ac46b2dd2fb5429f0280089ccb3ecadff678ddbab2aff808839866a4f01.deb
+Size: 1332890
+MD5sum: e3b85ea25f1d94cfcef2476eac55b04b
+SHA1: e42ba21762e6988b600d6603130151f04825b672
+SHA256: f8214ac46b2dd2fb5429f0280089ccb3ecadff678ddbab2aff808839866a4f01
+SHA512: 7e7208722d2fbee66a2b7b0f7d88ebd48ae414b8f78edc5357455058fadbe46a6b862b1159bff6b36919801ac6c6b858364b4b39ff510ec62745a0bdc9058943
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64e
+Version: 1.4.8-8
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2532
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64e/com.be-huge.floating-view_1.4.8-8_iphoneos-arm64e_20260916-0805_844ac286134c5fb251fd73f835adfef83ff2c46c0bf682e5312ba8d961941a2b.deb
+Size: 1293100
+MD5sum: 773cbc833e2ec5a5d76a6e3a8efc4e47
+SHA1: d848caa80a0b1bb5f769ca97f511a55d6f2d3236
+SHA256: 844ac286134c5fb251fd73f835adfef83ff2c46c0bf682e5312ba8d961941a2b
+SHA512: c0426ccc72824c9f67e4d6c03632724e1354213d10c0a8bf298ea18d1792c6b85f605ea2c4c9e98f60455bdc252ef3a04420cd39bb2b009eb6512990ce2c3305
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64e
+Version: 1.4.8-9
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2532
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64e/com.be-huge.floating-view_1.4.8-9_iphoneos-arm64e_20260916-0805_34f6f2f3ad52d089ab2b1b48b08d9567b5beb0896806fb39cfbbb07377124827.deb
+Size: 1327306
+MD5sum: 4debf35f90ccd85c18ad9a179a100c32
+SHA1: 16286e7ba133d6eb0e80feed06af5279ee960c9a
+SHA256: 34f6f2f3ad52d089ab2b1b48b08d9567b5beb0896806fb39cfbbb07377124827
+SHA512: 0b353cbf0a0786cc0841412447a037812c16980f7a924f92dc2fc0101d406d6d99446601d8c90d59313a215606c24ce71b806f49fb4fec30dd5ae72caab8ec34
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64e
+Version: 1.4.9
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2532
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64e/com.be-huge.floating-view_1.4.9_iphoneos-arm64e_20260916-0805_c4b6964506cf93541224f5880fddcecf82ea7d10ff62a80823d8e27b7405040d.deb
+Size: 1330614
+MD5sum: 5a00a2340e2c69f7cd2b91f237646032
+SHA1: d92b33e699d292954a515ff6d39eda53c406fdb8
+SHA256: c4b6964506cf93541224f5880fddcecf82ea7d10ff62a80823d8e27b7405040d
+SHA512: 28b39d574a5656f2a7e085f3e8bf7250473ee64bd795384cbc26a61f722e11bb02d367dca88141e6d55f85d3cbc152da48a5a7d06e6e99d06b9720632e63e958
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64e
+Version: 1.4.9-1
+Section: 插件
+Maintainer: be-huge
+Installed-Size: 2532
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64e/com.be-huge.floating-view_1.4.9-1_iphoneos-arm64e_20260916-0805_ed1ef71063245c6a9fa15c6260f044b81ba2e54e86a688ceb2b9797c9e64b29a.deb
+Size: 1331834
+MD5sum: fe7b5fd5adee476ec6e41a0e5e9642ec
+SHA1: 4f800f8edf1a87ae5039e62667c07a218592cd7d
+SHA256: ed1ef71063245c6a9fa15c6260f044b81ba2e54e86a688ceb2b9797c9e64b29a
+SHA512: a701db0ee7d106807c9bac98fccaea505e22fe8891bc65e282f954c499aa2ff19a25933f1ce5a8fa9795ef50113de9b03c9adaca0c2f4e8dd96ff079f6b7bd3e
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64e
+Version: 1.4.9-2
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2532
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64e/com.be-huge.floating-view_1.4.9-2_iphoneos-arm64e_20260916-0805_c51d65084256a81e1ba65a1f60cb860803c2c60f41a9466f72d925cfa773a60f.deb
+Size: 1337782
+MD5sum: 54dfbc950ec9465349a6503af99371b2
+SHA1: 0ee21ed01e34a0337f3740d39675d0b1d12f2b13
+SHA256: c51d65084256a81e1ba65a1f60cb860803c2c60f41a9466f72d925cfa773a60f
+SHA512: 9559723e33f887f7a94c8a1bec03dffc8a4e35e15b1f10835499dabb654fc12f44431c074c46a3864b58bc428544a8efcb7af68ee5e77d81efd83018b2da41e4
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64e
+Version: 1.4.9-3
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2532
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64e/com.be-huge.floating-view_1.4.9-3_iphoneos-arm64e_20260916-0805_fb13d3fee6436a0552d24667d28fb1be5d877dce927ad9af0ef52e6273966d38.deb
+Size: 1340810
+MD5sum: 893cb04534abf561b3d61a9bf879243b
+SHA1: 2b4884ba6f06dd14ffeedb78a96a13678cb78fd0
+SHA256: fb13d3fee6436a0552d24667d28fb1be5d877dce927ad9af0ef52e6273966d38
+SHA512: 55a0025d73739ee5ca13274e4b8a8313ceb5fe9711ede8deae0cc29222f886c2ea9f18072b529621858379cd84f876a8837b9e17e1265b602993e652dc5ae487
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64e
+Version: 1.4.9-4
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2532
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64e/com.be-huge.floating-view_1.4.9-4_iphoneos-arm64e_20260916-0805_b596a1608c021d3f51796c0a6724e410ba30702f55d620421cbad58d8d7ad9d5.deb
+Size: 1344832
+MD5sum: c256e42e4ebe75018b57e333e7440bc9
+SHA1: 79f6b39b6491e6cfb9a1bf56cd830caf4708cd2b
+SHA256: b596a1608c021d3f51796c0a6724e410ba30702f55d620421cbad58d8d7ad9d5
+SHA512: f448676e193a10c28a2c40d64c3d3c455d0b5670ea28655e040637a153eb841f2e38c6fff5157a5db2e4c3f061442dccded8e657a7ed4d9ebaf870be11d729f1
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64e
+Version: 1.4.9-5
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2532
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64e/com.be-huge.floating-view_1.4.9-5_iphoneos-arm64e_20260916-0805_dd221ce98d0345703930ce2d1af2150758aed8b76bdcc381cab96ffb8bd385f9.deb
+Size: 1341542
+MD5sum: 0a2d9ca731970f3b4f31e3c993c75112
+SHA1: 61930e36e3268e88448530310328c38beded2e68
+SHA256: dd221ce98d0345703930ce2d1af2150758aed8b76bdcc381cab96ffb8bd385f9
+SHA512: ec27282494a364fc11ee784fedabf70e69a9c38480ce5193bc0df7f37644a3d2483ec4439266cc20730718afb5b0e3273b2d0cee64224f90a99f7b8959aa1101
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+SileoDepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64e
+Version: 1.4.9-6
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2660
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64e/com.be-huge.floating-view_1.4.9-6_iphoneos-arm64e_20260916-0805_6aa4eab61935adec132a3e76d7900260fcf9ca2fe30c1d3d98699d36abd109fd.deb
+Size: 1349764
+MD5sum: 3a4dba43bdc2061a9ef860af72a75a2e
+SHA1: a0fc33a28420dcc187a51570990a270f16f64e9f
+SHA256: 6aa4eab61935adec132a3e76d7900260fcf9ca2fe30c1d3d98699d36abd109fd
+SHA512: 301ffd65e3174612acda14853ff148f6236ad5fa17070e7da30635492f575336fa97453ace43e0b310aa3dcaa299cd1f6b5c17a2da9e9b40ff4053b7937418a9
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+SileoDepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64e
+Version: 1.4.9-7
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2692
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64e/com.be-huge.floating-view_1.4.9-7_iphoneos-arm64e_20260916-0805_e378ab362b5e76c3de3a0623a86f30a56a6aa3ee8cca89cdd17d6db654d21b81.deb
+Size: 1345204
+MD5sum: e0dd9ce4a6a820e43b8b403fa69baa36
+SHA1: 30c1b9ef580ee53aef4e9cd40c881a1d2c2ab0a8
+SHA256: e378ab362b5e76c3de3a0623a86f30a56a6aa3ee8cca89cdd17d6db654d21b81
+SHA512: 9dc756f44a0c714548cd29f4ddabdd45e8eac0f12edb61fe8c2eeebecedf5cb5383545ea0b9452d58e96382f2da60cb287629fcfa70e1fe84efd5fdd2319a8d6
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+SileoDepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64e
+Version: 1.5.0
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2692
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64e/com.be-huge.floating-view_1.5.0_iphoneos-arm64e_20260916-0805_7d9a594c3a29338621e7b766010eb458798df0534b0249be8832d406d4f60872.deb
+Size: 1472302
+MD5sum: d74bf5dd06e72aaa6d4b4ab661aa7981
+SHA1: 0b00e072552bc835b3674f3fe2515db6fa13437a
+SHA256: 7d9a594c3a29338621e7b766010eb458798df0534b0249be8832d406d4f60872
+SHA512: 77491e84761ada6d371b45748fb1ef0a2522cea3ded90b425ace2a4052f182716dcd5a56e4d74dfbe30dcbcb91d8b8d34429cedab87ec0beacdcb4d455fadec2
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+SileoDepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64e
+Version: 1.5.0-1
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2692
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64e/com.be-huge.floating-view_1.5.0-1_iphoneos-arm64e_20260916-0805_0fb6cdab42bc9e84b807e64568523371777017957b1f0e341c300878a3dc8044.deb
+Size: 1480094
+MD5sum: 25b9aa01a60112250fc873bebade0151
+SHA1: 87dc68caa3a23c20b0348c6575413285238b0b4c
+SHA256: 0fb6cdab42bc9e84b807e64568523371777017957b1f0e341c300878a3dc8044
+SHA512: 8f7256fd8324f15eefa560098161f9eb0bc591174ec39d0a9790061f6bb2fe791db729490d31cbe9542c63cf470e951d0edc6196c3f252d83ea3d31d300a7748
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+SileoDepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64e
+Version: 1.5.0-10
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2692
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64e/com.be-huge.floating-view_1.5.0-10_iphoneos-arm64e_20260916-0805_34f62c47f7a1037eaca409ff4859d3eaa2e38bea19600f5e059f385c9c701d3b.deb
+Size: 1388118
+MD5sum: 468a188308862780bdf199b8e58353df
+SHA1: 9255c852c936b9f7707d1b601e4622b6200b2dd4
+SHA256: 34f62c47f7a1037eaca409ff4859d3eaa2e38bea19600f5e059f385c9c701d3b
+SHA512: 9725c33ac180054020509a46f7726bd3dfb69db0c2364e2c1960fa452a39e18ebdec22ca01151ded43519bede18f63ee483060eb62788450491c374d84be79b3
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+SileoDepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64e
+Version: 1.5.0-11
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2692
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64e/com.be-huge.floating-view_1.5.0-11_iphoneos-arm64e_20260916-0805_46be31e02f1b954804b908982609ff4b9fde52756c607411e3acc08ec842809d.deb
+Size: 1388108
+MD5sum: 19b44c772c178ae56f683ea69f942e90
+SHA1: 5c80b3876f245269be9814cc873289c6007874c4
+SHA256: 46be31e02f1b954804b908982609ff4b9fde52756c607411e3acc08ec842809d
+SHA512: f0b80035616cda4d09523d777b7917728725e61dc831fe3e4cd778fd44273c324f8302dd4c25993f4e70bdd5fed3d391f123d4efc7fabff985a61acc21fa2a44
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+SileoDepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64e
+Version: 1.5.0-12
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2692
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64e/com.be-huge.floating-view_1.5.0-12_iphoneos-arm64e_20260916-0805_df9508a599ed16c097cc2d1cbc7f38b55590efa0e644963a131ef6bdf8fcf608.deb
+Size: 1389136
+MD5sum: db711b73a61d6d41434c93964234503c
+SHA1: 64dd803b4e6a9bfa16d1201cf6de9d3dcba799c2
+SHA256: df9508a599ed16c097cc2d1cbc7f38b55590efa0e644963a131ef6bdf8fcf608
+SHA512: 0ab2166dfe50c0bdaff4f46cb98d3132fc8ee092b565fd03d62c77738af90c59d491a52d94ec243ce9dc65a25483a2405e638e7359844103e65b9bd3d8564867
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+SileoDepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64e
+Version: 1.5.0-2
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2692
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64e/com.be-huge.floating-view_1.5.0-2_iphoneos-arm64e_20260916-0805_60927872836e33c7524854fae3cdf9b9277f8051ac9d03e5359f9f667776a62b.deb
+Size: 1478978
+MD5sum: fdb8f024c4be2272747987cc785a4f61
+SHA1: b2ba5c6de9ef72c28b394c2df9b837f834fc796a
+SHA256: 60927872836e33c7524854fae3cdf9b9277f8051ac9d03e5359f9f667776a62b
+SHA512: 27531dc8cc033408c9d350ba2312a90a0a44ce72c057d9bb65329342513ecf3f6d80ed0d0cdab6ad9c222dcca2c06bfb3b16bf383cf4922b33d5a86cf7760ecc
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+SileoDepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64e
+Version: 1.5.0-3
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2692
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64e/com.be-huge.floating-view_1.5.0-3_iphoneos-arm64e_20260916-0805_db36ef005f433a951db0cd0c56c6f2c8f34fe3bb7580f5a7038373345fd60237.deb
+Size: 1482982
+MD5sum: 33918ad46442d87f94819dd0bc8da731
+SHA1: 572d814d0554f8dccdfa534fe6602bafb0a07177
+SHA256: db36ef005f433a951db0cd0c56c6f2c8f34fe3bb7580f5a7038373345fd60237
+SHA512: b2adefef9f4414200461789709929face475e742a436d0534c88a514bbd9be2f3c427e902e9254be9ce9d120ebffdf53feb9e8dcb9f011d9db017e367764018f
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+SileoDepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64e
+Version: 1.5.0-4
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2692
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64e/com.be-huge.floating-view_1.5.0-4_iphoneos-arm64e_20260916-0805_6ebcd6c90452a250702279b774f2bed97180f466178f0b826384367a14ad90ac.deb
+Size: 1482332
+MD5sum: 25447e66acf96383ca126e8233961eda
+SHA1: 1dd56cf485bb561aeba0ea14c8cdef24555dee3d
+SHA256: 6ebcd6c90452a250702279b774f2bed97180f466178f0b826384367a14ad90ac
+SHA512: f101432800cbd3cabb288e1a2fd1ea66b3f2926060f22fca2255bb3a2a46799c94bd1eb41cafcaa54131e12e108c9046ddfa9299e9c4a348c0381cc3c958248e
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+SileoDepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64e
+Version: 1.5.0-5
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2692
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64e/com.be-huge.floating-view_1.5.0-5_iphoneos-arm64e_20260916-0805_78e7c13ad774fa4164776bf744b84da9d46c42522bc512eebf0a1843983e395d.deb
+Size: 1481150
+MD5sum: 928a1bc2a4422801ba32d24d79a7a6a1
+SHA1: 603da10a8ede97bdb7cba7dc78ca5dc541fbb06e
+SHA256: 78e7c13ad774fa4164776bf744b84da9d46c42522bc512eebf0a1843983e395d
+SHA512: 1910f4674495a14a7bcd30ad7ea6e62e4712ee95de14bd1d285851ff2e85e7e612e0ec5aff06c863e41168a4f6d2431230350a9243fd572003f3fdfa14dce976
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+SileoDepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64e
+Version: 1.5.0-6
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2692
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64e/com.be-huge.floating-view_1.5.0-6_iphoneos-arm64e_20260916-0805_864ff61c6417a78470e2b804ee6f8c19de6075f1ab245fbc68afac9f3bf98e38.deb
+Size: 1367140
+MD5sum: 0ad1a7fdfabfb7fa92fba2d3673ac169
+SHA1: 456a038c3360beb15d383529c62ee4312e239374
+SHA256: 864ff61c6417a78470e2b804ee6f8c19de6075f1ab245fbc68afac9f3bf98e38
+SHA512: 0a64a01126cef8713411bb7da48abedbb256ee4b731295984d0e680d421e52f3b3ab627a398a472d74a20018c8dfc07a7286c3d1093fc1f1562e3c49fa14dd76
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+SileoDepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64e
+Version: 1.5.0-7
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2692
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64e/com.be-huge.floating-view_1.5.0-7_iphoneos-arm64e_20260916-0805_490637a6b419c7b8365697e124c0356fc56c3adcb5f40cbc008dce92a3b6d730.deb
+Size: 1382952
+MD5sum: 0ea5f56b3d5ac3440deeb3bab4a97999
+SHA1: 4c0fc0a2f2a89479569ed5a082f519d76df27330
+SHA256: 490637a6b419c7b8365697e124c0356fc56c3adcb5f40cbc008dce92a3b6d730
+SHA512: 3903d638b3f611931ff3535bfe8e79e52a47a44a93373454f92016f485b26491c568eb55cc46cbe8eb636f7590f7efdd96e469178daa8509665f6295054c7790
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+SileoDepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64e
+Version: 1.5.0-8
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2692
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64e/com.be-huge.floating-view_1.5.0-8_iphoneos-arm64e_20260916-0805_a781a435fcf60c39163c7ad9e41aa43cafffa986097b9a209918ec7e7ede848e.deb
+Size: 1376572
+MD5sum: 637630b55045a4884678756eb3b881ae
+SHA1: 349b05e08a804e2febb7bad2e9b00389e2998107
+SHA256: a781a435fcf60c39163c7ad9e41aa43cafffa986097b9a209918ec7e7ede848e
+SHA512: 45e921c0803f841a09b818e58d4e7602fac3871c47abdd06cc9d27c2e8f2652fee0f0bdf9f4836371e26b9753ab9a772a82ac6da04d4d6bc787eb68ed087bd53
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+SileoDepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64e
+Version: 1.5.0-9
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2692
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64e/com.be-huge.floating-view_1.5.0-9_iphoneos-arm64e_20260916-0805_83acffb44324d6acd2294ceba643956fbf2e81d173c2cf6fac4270e3ddb58a9f.deb
+Size: 1389444
+MD5sum: b4031ba75e0ea031fb14bdc43c959eec
+SHA1: f9fc877585ccaabce274a5f767b8658fd6331d2d
+SHA256: 83acffb44324d6acd2294ceba643956fbf2e81d173c2cf6fac4270e3ddb58a9f
+SHA512: 9a9ad44942e2745bbd0ee9db650c338628630144b0ca79685f515ed29ce9e4bac1258a2c092cf872f018e7fe2b9ec9204f73bb2e4d2a9a0ebbf420a8ffa5df2d
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+SileoDepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64e
+Version: 1.5.1
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2692
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64e/com.be-huge.floating-view_1.5.1_iphoneos-arm64e_20260916-0805_c6f72db7a313371ffc27cde811749fd56ca8884acbdac8c161951e0920e86844.deb
+Size: 1399088
+MD5sum: bb8afe4bf2d409d9ecac9880ea4cb5cf
+SHA1: 39163c56e55fbfd6f9085da26117ee660e8a89e8
+SHA256: c6f72db7a313371ffc27cde811749fd56ca8884acbdac8c161951e0920e86844
+SHA512: 511415752acb432bb6f3a5cf359bd11f095283871ce4a8f1a3375a230b317d74e6a979719d2a03a54593e1018b73c37b9e884914e5dbae2d5057ca514fd67042
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+SileoDepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64e
+Version: 1.5.1-1
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2692
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64e/com.be-huge.floating-view_1.5.1-1_iphoneos-arm64e_20260916-0805_393dc5d7c6238780a3f7e695ed8688f9ed4b37799f94fed85155b83af2cb84de.deb
+Size: 1387600
+MD5sum: 12a70b836362997e8d70d2b6948c21a6
+SHA1: 7d80d01cf073c78b6e079c8b07691a32ea6c4598
+SHA256: 393dc5d7c6238780a3f7e695ed8688f9ed4b37799f94fed85155b83af2cb84de
+SHA512: 0b1d2cf8905dd1da4a8b2213b25796f702b762646504f9b93b87a632ca508663e4d73513531cddf889e17a68b82c7b2e7211b2bb5d7c513293ad6b625853d512
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+SileoDepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64e
+Version: 1.5.2
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2692
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64e/com.be-huge.floating-view_1.5.2_iphoneos-arm64e_20260916-0805_738f66a1a9d0995c60f549136be60a5926bae06d9b98c3ae344d687ae78fe602.deb
+Size: 1406460
+MD5sum: 62408aff74a9e91e0c61bd2db4f44800
+SHA1: ca015d1fea1303f1ae889bc0b75e3222b0235270
+SHA256: 738f66a1a9d0995c60f549136be60a5926bae06d9b98c3ae344d687ae78fe602
+SHA512: e993784e141bf53eb6db2cf574c22ee5eec831004628d78b2a3d72da1c2eb786452c39217b16362bf364e4449be7431f0eca04533580402dafa87029d2838757
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+SileoDepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64e
+Version: 1.5.2-1
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2692
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64e/com.be-huge.floating-view_1.5.2-1_iphoneos-arm64e_20260916-0805_a9ed05661d2f0fdeae80e1ed9a1f5010c3ff76b33164cf33ba3ad4e3e977cfef.deb
+Size: 1410238
+MD5sum: 4c3f9d7bf581e77b81555a0f2c9a7577
+SHA1: f127b85154d0ca8a3f7e3dee4d1d931bd797ae78
+SHA256: a9ed05661d2f0fdeae80e1ed9a1f5010c3ff76b33164cf33ba3ad4e3e977cfef
+SHA512: 1131964ae00f74c20e3323fc906ff33b433fd60ed24b4ce8e47e88cb5d9db446c101a6517242f84baec0a565300649a654762f6c0198421f2e4bd720bdbdd2d0
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+SileoDepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64e
+Version: 1.5.2-2
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2692
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64e/com.be-huge.floating-view_1.5.2-2_iphoneos-arm64e_20260916-0805_f9de3af75be6763a7ba4d6a5d8d0f3715225725f7d16c4d162c8790c119cb044.deb
+Size: 1419706
+MD5sum: 33eaf18ec21c6040f9c8cc5d9f95d8f6
+SHA1: 012912f0fd52608f4d59aa707214be18116a9795
+SHA256: f9de3af75be6763a7ba4d6a5d8d0f3715225725f7d16c4d162c8790c119cb044
+SHA512: 100500fe2006535d697938086b31aa2b26da440254c47d51ed21d87e80569e3b2b7351b924346fbf65560117c94b2833667ccced4efc544522d82ec826ed3b3b
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+SileoDepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64e
+Version: 1.5.2-3
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2692
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64e/com.be-huge.floating-view_1.5.2-3_iphoneos-arm64e_20260916-0805_d9fbe89119cf2c51d3eeaf4a5d9c97a620be009142bd7f90e36c5c29083462c5.deb
+Size: 1459714
+MD5sum: cf623c5a798a32d2238244179960375b
+SHA1: fabba2362792ed9ffc2eac9ec098efe3d6248c27
+SHA256: d9fbe89119cf2c51d3eeaf4a5d9c97a620be009142bd7f90e36c5c29083462c5
+SHA512: c23fd9e1f55fd1a229593e980633540f5e3f5b12b3893917ff8eaeb83fdfcfc49e00537c2e30c9664ed07daed292db00c67f88f2824f607621c1a93f78126460
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+SileoDepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64e
+Version: 1.5.2-4
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2692
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64e/com.be-huge.floating-view_1.5.2-4_iphoneos-arm64e_20260916-0805_48457baa3d425a83e574dd87c29bc65f2e233f9ec93261763dcd97adf1de8dc2.deb
+Size: 1458492
+MD5sum: d63b1a6b996bc0214238ec6a210e779c
+SHA1: b1d7c0aeb07aeb9ae51086ab5b53017619664ac1
+SHA256: 48457baa3d425a83e574dd87c29bc65f2e233f9ec93261763dcd97adf1de8dc2
+SHA512: 394fef6f61062dd6253d682ffbe50c2faf0eb6c79b2736bf23eb945b7383866424e14c987004c4aa1d99d79b87d97aedb73832a3ec529912720473794e788ad1
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+SileoDepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64e
+Version: 1.5.2-5
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2692
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64e/com.be-huge.floating-view_1.5.2-5_iphoneos-arm64e_20260916-0805_1d0541d89578aeaa3ab5011b0663c60d6b80ea120b809a2d71057bff6d7a6636.deb
+Size: 1465164
+MD5sum: 341b0705ad96a319a02cbe47890b0b57
+SHA1: 51abf33405efa030be2fe7a259b0bc786a3632c6
+SHA256: 1d0541d89578aeaa3ab5011b0663c60d6b80ea120b809a2d71057bff6d7a6636
+SHA512: babc4fdaf951a0be244bc5aa827534bdf876d2f9191cab8ca7ed4c82e14f2819275dd65deee4a5d9b8d76b0663c0dc55162ecb18f9b637cec769b7fab1667a27
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+SileoDepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64e
+Version: 1.5.2-6
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2692
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64e/com.be-huge.floating-view_1.5.2-6_iphoneos-arm64e_20260916-0805_79cd93e376917af943307e33ec06da34ee898db7d1590ea0cc3c8b0e747b6271.deb
+Size: 1481956
+MD5sum: c8e6dc9098db2780921e0a4517cd10ad
+SHA1: 439f0546345ee0dc49bf41a91accc789fafb8e55
+SHA256: 79cd93e376917af943307e33ec06da34ee898db7d1590ea0cc3c8b0e747b6271
+SHA512: 2ec946b9f80de55f075436bdb596eb6f7eb8509c2a503f5a82828d45a59a7ea9b3eebdbea8f8ae34d268ae97dbd03003f9e18cd1f1cdaa152ca79a8069a508ff
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+SileoDepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64e
+Version: 1.5.3
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2692
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64e/com.be-huge.floating-view_1.5.3_iphoneos-arm64e_20260916-0805_c695f6d6afe0dd4915364e8dc9520d1db6f1f736c0b4c2f3ade6db7528dee875.deb
+Size: 1463404
+MD5sum: 254b0047525d2137163d968f9e1e58ca
+SHA1: 76feec4529bb118837330d748f26387895991c26
+SHA256: c695f6d6afe0dd4915364e8dc9520d1db6f1f736c0b4c2f3ade6db7528dee875
+SHA512: ad39da89cb7524526bae3cbf27f08b20b207477749d107e48d7655137e869dbc00aec1b8ff447fff9e94fb1d1c5e56f181dd962e1a16bd7c39821f66737a81c4
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+SileoDepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64e
+Version: 1.5.3-1
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2692
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64e/com.be-huge.floating-view_1.5.3-1_iphoneos-arm64e_20260916-0805_cae327f35d83d628b6d70a4278b7472213a5fd549852c50b2435716c8a774344.deb
+Size: 1465354
+MD5sum: f8cd5510787f49cb4039f726e44e8aea
+SHA1: bb6ca49ce327e1c675ffbc60b0e26eedb25d5a87
+SHA256: cae327f35d83d628b6d70a4278b7472213a5fd549852c50b2435716c8a774344
+SHA512: 21f5f95346b901b73354f69fccc97899fbcce2218783d1441f7dd1493739567f7794633def6ed89920197f024b9cc90cd5516dee2b7c8330517050321c43f308
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+SileoDepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64e
+Version: 1.5.3-10
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2692
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64e/com.be-huge.floating-view_1.5.3-10_iphoneos-arm64e_20260916-0805_3411a001646579e83f9a04fb81e703c474428efc02799698c398562affee1e2e.deb
+Size: 1512516
+MD5sum: d0e03fa1d387717f7036f590a000b531
+SHA1: 25c66f62a43eb9b467020a13309dfe8f16bb91de
+SHA256: 3411a001646579e83f9a04fb81e703c474428efc02799698c398562affee1e2e
+SHA512: 9afae8c74babd1be9a94285c2187649dbf1313107d048a43839682b1d256189630a093bcb2929557681fcd0a93050a624e7921617ddfe372b6580eb2233d8421
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+SileoDepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64e
+Version: 1.5.3-11
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2692
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64e/com.be-huge.floating-view_1.5.3-11_iphoneos-arm64e_20260916-0805_ce12de54db5c5e419d738628e949cefb98d357503fbad3cb9c84c28c53aee238.deb
+Size: 1509356
+MD5sum: 08b3f10c5f955980457dc4f8d04f66d7
+SHA1: 55650b5b7c3d827e73617278e91a2feeda89c2f1
+SHA256: ce12de54db5c5e419d738628e949cefb98d357503fbad3cb9c84c28c53aee238
+SHA512: 96e074fac092d463da354651a4373a10dee365ad69c93a438e9f1f77d6d5ca33abae16abe89163a6bc7990dff289dff1775446677db5e412a0119d4cddba6183
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+SileoDepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64e
+Version: 1.5.3-2
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2692
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64e/com.be-huge.floating-view_1.5.3-2_iphoneos-arm64e_20260916-0805_c8ef5b9ea56e94910fe4aaa4784b023a4309091bc6939c4655c16f9b62a53e6f.deb
+Size: 1464610
+MD5sum: 46d4a5943d284b05571a273f569d778f
+SHA1: 1c2d4c9054939cd8214f9b1483d2b9a3e2cf1aca
+SHA256: c8ef5b9ea56e94910fe4aaa4784b023a4309091bc6939c4655c16f9b62a53e6f
+SHA512: f63bd41aea8f3fc913954ce7b24914933bd5b493e6d1fac9acbae06b87df16c45a100317ecaef9c1f07514bde437ac0040bc7203559c052ed24fb4e30f0e149d
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+SileoDepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
