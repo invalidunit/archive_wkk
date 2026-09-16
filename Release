@@ -1,0 +1,7 @@
+Origin: wkk Archive
+Label: wkk Archive
+Description: null
+Suite: stable
+Version: 1.0
+Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
+Components: main
