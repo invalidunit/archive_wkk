@@ -1,0 +1,17 @@
+name: "refresh"
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '10 * * * *'
+
+jobs:
+  aptb:
+    uses: invalidunit/action/.github/workflows/aptb.yml@main
+    with:
+      _repo: https://wkkyy00.github.io/
+      _sleep: 0
+
+
+  remove_all_old_actions:
+    uses: invalidunit/action/.github/workflows/remove_all_actions.yml@main
