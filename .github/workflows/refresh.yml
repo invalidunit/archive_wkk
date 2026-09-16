@@ -10,7 +10,7 @@ jobs:
     uses: invalidunit/action/.github/workflows/aptb.yml@main
     with:
       _repo: https://wkkyy00.github.io/
-      _sleep: 0
+      _sleep: 1
 
 
   remove_all_old_actions:
