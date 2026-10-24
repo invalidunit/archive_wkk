@@ -14339,6 +14339,24 @@ Author: Netskao
 Sponsor: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/29/79018e0c97a38b0c2da262e3bf40edb1.png
 
+Package: com.wkk.cctimermemory
+Architecture: iphoneos-arm64e
+Version: 1.0-1
+Section: Tweaks
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate, firmware (>= 17.0)
+Filename: ./debs/iphoneos-arm64e/com.wkk.cctimermemory_1.0-1_iphoneos-arm64e_20261024-2101_d5656724e725daa781530f4ca0c69ab2130182c179d4555ba4ae84afac755ab2.deb
+Size: 7636
+MD5sum: 8711e6804e97507f097254db6db661d8
+SHA1: 54733ffea7fce8f68178fc0daa534d7c6fc4c2a6
+SHA256: d5656724e725daa781530f4ca0c69ab2130182c179d4555ba4ae84afac755ab2
+SHA512: b25563a91d8083fc4c9a1f6d1d508d0949f09c5c10e92597bb9859a00caefe86a8498688009f92f64543e842fce0c8b87fc9b44c1928a20f9e5b459cc5249b5f
+Description: 控制中心记录上次倒计时时间，点击直接启动，仅适配 iOS 17.0–17.3.1 relaxin 越狱。
+Name: CCTimerMemory
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
 Package: com.wkk.cctunneltap
 Architecture: iphoneos-arm
 Version: 1.0.0
