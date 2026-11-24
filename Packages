@@ -17774,6 +17774,23 @@ Author: alias20
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 
 Package: com.wkk.fakesignalbar
+Architecture: iphoneos-arm64
+Version: 1.0-1
+Section: Tweaks
+Maintainer: alias20 & wkk
+Installed-Size: 364
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/iphoneos-arm64/com.wkk.fakesignalbar_1.0-1_iphoneos-arm64_20261124-1755_93bef8ae8cbbb5d38aa8b0dce39ddb619e8dcc618a943e5558b6998ff1ec4d0e.deb
+Size: 15160
+MD5sum: 1c6872e033ff5b03d536a6c613c2dec7
+SHA1: 649cb91a6aeff4d7fda2e6f99eb8337eff2e0e71
+SHA256: 93bef8ae8cbbb5d38aa8b0dce39ddb619e8dcc618a943e5558b6998ff1ec4d0e
+SHA512: 6a03d4ad870d098826985e8c832f56614f86ff13dd36f49f752509263a337b6eb4be65e468c98b63f984848934456ccbba5bb00b3a0b0f05475434f7c836ee7d
+Description: 自定义状态栏显示的运营商名称、信号强度和蜂窝网络类型等。灵感来自 SniperGER 的 Signal 插件，修复且补全没有双卡时或单 eSIM 时的不生效卡2逻辑，已汉化。
+Name: Fakesignalbar
+Author: alias20 & wkk
+
+Package: com.wkk.fakesignalbar
 Architecture: iphoneos-arm64e
 Version: 0.1
 Section: Tweaks
@@ -17791,6 +17808,23 @@ Description: 自定义你的运营商/名字/伪装双卡/信号等等，已汉�
 Name: FakeSignalBar
 Author: alias20
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
+Package: com.wkk.fakesignalbar
+Architecture: iphoneos-arm64e
+Version: 1.0-1
+Section: Tweaks
+Maintainer: alias20 & wkk
+Installed-Size: 364
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/iphoneos-arm64e/com.wkk.fakesignalbar_1.0-1_iphoneos-arm64e_20261124-1755_d35c1eca6981f20d4b3ea958a1cad511e0c736d1ef64a0a09e57702afa97d87e.deb
+Size: 15172
+MD5sum: d5714b86473c05b7bad758861813919f
+SHA1: 793722036098695e519e3f64a2d945f73abc5b7a
+SHA256: d35c1eca6981f20d4b3ea958a1cad511e0c736d1ef64a0a09e57702afa97d87e
+SHA512: 526293b7bb91084c3a937b6326da9e5649ea649d0a7f79d6955c01a537e5412c9aa713e67db55f7fc63c933068d4c7bb0b1adbf3e8a55ec70331028520d897f0
+Description: 自定义状态栏显示的运营商名称、信号强度和蜂窝网络类型等。灵感来自 SniperGER 的 Signal 插件，修复且补全没有双卡时或单 eSIM 时的不生效卡2逻辑，已汉化。
+Name: Fakesignalbar
+Author: alias20 & wkk
 
 Package: com.wkk.fanqiehook
 Architecture: iphoneos-arm64
